@@ -13,8 +13,7 @@ You can stay on the ‘standard periods’ tab if you are comparing years, quart
 You can stay on the ‘standard periods’ tab if you are comparing years, quarters, months, weeks, or days.
 
 ![](screenshots/select-previous-periods.png)
-Select the number of previous periods you want to compare, and the type of period. Select an end date for the comparison range. 
-You can also select the ‘custom periods’ tab.
+Select the number of previous periods you want to compare, and the type of period. Select an end date for the comparison range. You can also select the ‘custom periods’ tab.
 ![](screenshots/custom-periods.png)
 
 This menu allows you to select the start and end date of each comparison period, and select the unit of time (day, week, month, quarter, year) that you want to compare by. 
