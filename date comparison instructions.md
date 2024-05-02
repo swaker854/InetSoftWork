@@ -4,7 +4,7 @@
 InetSoft’s tool provides a way for users to compare data across various ranges, such as comparing specific months, days, and years.
 
 
- To use the date comparison feature, click the … icon at the top right of a chart or table, or right click anywhere if you are dealing we the initial period of interest is chosen, rather than manually choose the period before, there is a range of options presented such as “Previous Period”, “Previous Month”, “Previous Year” etc
+ To use the date comparison feature, click the … icon at the top right of a chart or table, or right click anywhere if you are dealing with a chart.
  
 ![](screenshots/date-comparison-menu.png)
 
