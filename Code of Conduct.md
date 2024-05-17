@@ -42,7 +42,7 @@ This Code of Conduct applies to all InetSoft platform spaces and communication c
 
  ## Reporting Process & Enforcement
 
-Code of Conduct violations may be reported by sending an email to <conduct@InetSofthq.com>. We investigate every complaint, but may not send a direct response to each complaint. We use discretion in determining when and how to follow up on reported incidents. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice.
+Code of Conduct violations may be reported by sending an email to <info@inetsoft.com>. We investigate every complaint, but may not send a direct response to each complaint. We use discretion in determining when and how to follow up on reported incidents. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice.
 
 As stated above, InetSoft and its moderators have the right and responsibility to remove comments or other contributions and/ or to suspend (temporarily or permanently) anyone for other behaviors that violate this Code of Conduct. 
 
@@ -52,4 +52,3 @@ This Code of Conduct is adapted from:
 - [Contributor Covenant, Version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 - [Dev.to Code of Conduct](https://dev.to/code-of-conduct)
 - [Google Open Source Code of Conduct](https://opensource.google/docs/releasing/template/CODE_OF_CONDUCT/)
-
