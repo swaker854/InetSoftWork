@@ -1,6 +1,6 @@
 # Code of Conduct
 
-By participating in this project in any way, including but not limited to submitting or commenting on an issue or pull request, you are agreeing to comply with the InetSoft Code of Conduct (CoC), reproduced here for convenience; please refer to https://InetSofthq.com/@InetSofthq/code-of-conduct for the up-to-date official document.
+By participating in this project in any way, including but not limited to submitting or commenting on an issue or pull request, you are agreeing to comply with the InetSoft Code of Conduct (CoC).
 
  ## Pledge
 
@@ -31,7 +31,7 @@ InetSoft pledges to uphold the standard of this Code of Conduct.
 
 ## Our Responsibility
 
-InetSoft is responsible for clarifying the standards of acceptable behavior as stated in this code of conduct and the [terms of service](https://InetSofthq.com/terms-of-service). We take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+InetSoft is responsible for clarifying the standards of acceptable behavior as stated in this code of conduct. We take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 InetSoft and its moderators have the right and responsibility to remove, edit, or reject any form of contributions or communications that are not aligned to this Code of Conduct, or to ban temporarily or permanently anyone for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
