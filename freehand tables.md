@@ -11,3 +11,8 @@ Then right click on a cell and select 'Insert Rows/Columns'
 Insert 3 extra columns, after the selection
 
 ![](screenshots/insert-extra-rows-columns.PNG)
+
+![](screenshots/add-sales-team.PNG)
+
+![](screenshots/set-grouping-to-by-month.PNG)
+
