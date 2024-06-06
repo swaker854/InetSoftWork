@@ -31,5 +31,7 @@ Add Gross Amount to the bottom cell of the second column
 Next, move Category and Product into the first two cells of the third column. Make sure expand on both is set to horizontal.
 ![](screenshots/move-in-category-and-product.PNG)
 
+
+Drag Gross Amount into the bottom cell of the third column
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
