@@ -1,5 +1,7 @@
 # Comparing Custom Periods
 
+Custom periods are defined as any nonstandard period such as starting from the middle of a week or month while comparing those periods.
+
 For this example of comparing dates on custom periods, we will use a chart displaying the number of unfilled jobs per month at a temp agency, with an average of all months already provided.
 ![](screenshots/temp-agency-chart.PNG)
 
