@@ -1,5 +1,7 @@
 # Comparing Standard Periods
 
+Standard periods are for when you want to compare across months, weeks, quarters, or years.
+
 In this example of comparing standard date periods, we will use a line chart from InetSoft's construction dashboard.
 ![](screenshots/construction-date-chart.PNG)
 
