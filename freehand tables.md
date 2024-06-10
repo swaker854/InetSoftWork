@@ -14,6 +14,8 @@ Insert 3 extra columns, after the selection
 
 
 
+
+
 Add order date, sales team, and sales rep to the cells where they are pictured below.
 ![](screenshots/add-sales-team.PNG)
 
@@ -32,6 +34,8 @@ Next, move Category and Product into the first two cells of the third column. Ma
 ![](screenshots/move-in-category-and-product.PNG)
 
 
+
 Drag Gross Amount into the bottom cell of the third column
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
+![](screenshots/merge_cells.PNG)
