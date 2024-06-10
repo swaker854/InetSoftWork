@@ -3,6 +3,8 @@
 
 InetSoft’s tool provides a way for users to compare data across various ranges, such as comparing specific months, days, and years.
 
+The tool can be accessed by end users, without visual composer access.
+
 
  To use the date comparison feature, click the … icon at the top right of a chart or table, or right click anywhere if you are dealing with a chart.
  
