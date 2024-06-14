@@ -1,4 +1,7 @@
 # Freehand Tables
+
+Pivot tables are an extremely useful tool for  summarizing large amounts of data. However there is sometimes the need to combine multiple pivot tables and see the same dimensions on the same row. This is where InetSoft's freehand tables become useful.
+
 This multilevel freehand table example uses the Orders Details dataset.
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
