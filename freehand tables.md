@@ -1,4 +1,7 @@
 # Freehand Tables
+
+Pivot tables are an extremely useful tool for  summarizing large amounts of data. However there is sometimes the need to combine multiple pivot tables and see the same dimensions on the same row. This is where InetSoft's freehand tables become useful.
+
 This multilevel freehand table example uses the Orders Details dataset.
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
@@ -11,6 +14,8 @@ Then right click on a cell and select 'Insert Rows/Columns'
 Insert 3 extra columns, after the selection
 
 ![](screenshots/insert-extra-rows-columns.PNG)
+
+
 
 
 
@@ -32,6 +37,8 @@ Next, move Category and Product into the first two cells of the third column. Ma
 ![](screenshots/move-in-category-and-product.PNG)
 
 
+
 Drag Gross Amount into the bottom cell of the third column
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
+![](screenshots/merge_cells.PNG)
