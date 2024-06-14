@@ -2,10 +2,10 @@
 
 Standard periods are for when you want to compare across months, weeks, quarters, or years.
 
-In this example of comparing standard date periods, we will use a line chart from InetSoft's construction dashboard.
+In this example of comparing standard date periods, we will use a line chart from InetSoft's construction dashboard. Let's say that you are the to executive of a construction company and you want to see which quarters have been the strongest or the weakest over the years in terms of revenue.  
 ![](screenshots/construction-date-chart.PNG)
 
-To access the date comparison menu, right click on the chart and click 'Date Comparison'. Make sure you are on the 'Standard Periods' tab.
+We can adjust the chart to display quarters but in order to really compare the same quarter from year to year, we want different years quarter's to display next to each other for easy comparison. To begin this, we access the date comparison menu, right click on the chart and click 'Date Comparison'. Make sure you are on the 'Standard Periods' tab.
 
 ![](screenshots/standard-period-example.PNG)
 
