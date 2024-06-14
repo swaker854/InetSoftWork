@@ -4,6 +4,7 @@ Custom periods are defined as any nonstandard period such as starting from the m
 
 For this example of comparing dates on custom periods, we will use a chart displaying the number of unfilled jobs per month at a temp agency, with an average of all months already provided.
 ![](screenshots/temp-agency-chart.PNG)
+Let's say that we are a temp agency executive wanting to measure the effectiveness of a particular manager by comparing the number of filled jobs during the managers time at the agency vs. the time without her. The period of time the employee was with the agency is an example of a custom date period since it is not a standard amount such as a week, month, quarter, etc. Also, the period will be compared with a period of completely different length. This is an example of when entering custom date periods is necessary.
 
 Right click on the chart, and click 'Date Comparison'. Select the tab 'Custom Periods'
 ![](screenshots/custom-periods-example-menu.PNG)
