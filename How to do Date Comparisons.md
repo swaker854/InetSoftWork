@@ -9,16 +9,16 @@
 
 # real table of contents
 
-[first use case](#first)
+[How do I compare this past week to the same week last year?](#week)
 
-[second use case](#second)
+[How do I compare this past month to the same month last year?](#month)
 
 [third use case}]{#third)
 
-## first use case <a name="first"></a>
+## How do I compare this past week to the same week last year? <a name="week"></a>
 
 
-## second use case
+## How do I compare this past month to the same month last year? <a name="month"></a>
 
 ## third use case
 
