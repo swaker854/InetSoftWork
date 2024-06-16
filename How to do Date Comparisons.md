@@ -68,7 +68,7 @@ This document contains instructions on how to perform the most common date compa
 
 
 
-## How do I compare two nonconsecutive months<a name="nonconsecutive"></a>
+## How do I compare two nonconsecutive months?<a name="nonconsecutive"></a>
 
 
 
