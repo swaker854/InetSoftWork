@@ -16,7 +16,8 @@ This document contains instructions on how to perform the most common date compa
 
 ## How do I compare this past week to the same week last year? <a name="week"></a>
 
-
+Right click on the chart to see a menu of options, click on 'Date Comparison'
+![](screenshots/right-click-menu.PNG)
 
 
 
@@ -79,3 +80,4 @@ This document contains instructions on how to perform the most common date compa
 
 
 
+![](screenshots/temp-agency-chart.PNG)
