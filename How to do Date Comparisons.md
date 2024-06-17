@@ -49,6 +49,7 @@ The chart should change to show only the two data points, one for the most recen
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the week you want to compare with the same week last year.
 
 ## What if I want to the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
+[Using Custom Periods](#arb)
 ## What if I want to compare the past two or three weeks with the same period last year?<a name="multiple1"></a>
 
 
@@ -121,15 +122,15 @@ The chart should change to show only the two data points, one for the most recen
 
 [Adding additional months for comparison](#add)
 
-[Comparing Arbitrary Periods](#arb)
+[Using Custom Periods](#arb)
 
 
 
 
 ## Instructions<a name="inst3"></a>
-## What if I want to compare three or more months?<a name="add1"></a>
+## What if I want to compare three or more months?<a name="add"></a>
 
-## Comparing Arbitrary<a name="add1"></a>
+## Comparing Arbitrary<a name="arb"></a>
 
 
 
