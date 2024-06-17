@@ -18,14 +18,15 @@ This document contains instructions on how to perform the most common date compa
 
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
-
-Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each year to...'
+<br/>
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
 
 ![](screenshots/compare-two-years.PNG)
 
-<br/><br/><br/>
+<br/>
 
 
+![](screenshots/compare-same-week.PNG)
 
 
 
