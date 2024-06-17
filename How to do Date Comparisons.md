@@ -74,7 +74,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 <br/>
-Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
 
 ![](screenshots/compare-two-years.PNG)
 
