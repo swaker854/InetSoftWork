@@ -25,7 +25,7 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and sel
 
 <br/>
 
-
+Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'.
 ![](screenshots/compare-same-week.PNG)
 
 
