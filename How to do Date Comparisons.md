@@ -16,6 +16,7 @@ This document contains instructions on how to perform the most common date compa
 
 # How do I compare this past week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
+
 [When starting with a previous week](#prev1)
 
 [When starting from the middle of a week](#middle1)
