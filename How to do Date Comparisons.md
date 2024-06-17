@@ -20,9 +20,9 @@ This document contains instructions on how to perform the most common date compa
 [When starting from the middle of a week](#middle1)
 [When comparing periods of multiple weeks](#multiple1)
 
-[What if I want to compare a previous week to the same week last year?](#prev1)
-[What if I want to the past seven days starting in the middle of the week to the same period last year?](#middle1)
-[What if I want to compare the past two or three weeks with the same period last year?](#multiple1)
+## What if I want to compare a previous week to the same week last year?<a name="#prev1"></a>
+## What if I want to the past seven days starting in the middle of the week to the same period last year?<a name="#middle1"></a>
+## What if I want to compare the past two or three weeks with the same period last year?<a name="#multiple1"></a>
 # Instructions<a name="inst1"></a>
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
