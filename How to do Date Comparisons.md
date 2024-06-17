@@ -55,7 +55,19 @@ The chart should change to show only the two data points, one for the most recen
 
 
 ## How do I compare this past month to the same month last year? <a name="month"></a>
+[Instructions](#inst2)
 
+[When starting with a previous month](#prev2)
+
+[When starting from the middle of a month](#middle2)
+
+[When comparing periods of multiple months](#multiple2)
+
+
+## Instructions<a name="inst2"></a>
+## What if I want to compare a previous week to the same week last year?<a name="prev2"></a>
+## What if I want to the past seven days starting in the middle of the week to the same period last year?<a name="middle2"></a>
+## What if I want to compare the past two or three weeks with the same period last year?<a name="multiple2"></a>
 
 
 
