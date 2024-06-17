@@ -26,7 +26,7 @@ This document contains instructions on how to perform the most common date compa
 
 
 
-# Instructions<a name="inst1"></a>
+## Instructions<a name="inst1"></a>
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 <br/>
@@ -56,7 +56,7 @@ The chart should change to show only the two data points, one for the most recen
 
 
 
-## How do I compare this past month to the same month last year? <a name="month"></a>
+# How do I compare this past month to the same month last year? <a name="month"></a>
 [Instructions](#inst2)
 
 [When starting with a previous month](#prev2)
@@ -94,7 +94,7 @@ The chart should change to show only the two data points, one for the most recen
 
 
 
-## How do I compare two nonconsecutive months from the same year?<a name="nonconsecutive"></a>
+# How do I compare two nonconsecutive months from the same year?<a name="nonconsecutive"></a>
 
 
 
