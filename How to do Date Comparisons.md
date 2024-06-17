@@ -36,7 +36,7 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and se
 
 <br/>
 
-Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'.
+Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 
 ![](screenshots/compare-same-week.PNG)
 <br/>
