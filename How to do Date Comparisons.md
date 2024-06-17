@@ -80,7 +80,7 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and se
 
 <br/>
 
-Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'.
+Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 
 ![](screenshots/compare-same-month.PNG)
 <br/>
@@ -134,7 +134,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 <br/>
-If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the Custom Periods tab, enter the start and end dates of the months you want to compare and press 'OK'.
+If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the Custom Periods tab, enter the start and end dates of the months you want to compare and click 'OK'.
 
 ![](screenshots/compare-non-consecutive-months.PNG)
 
