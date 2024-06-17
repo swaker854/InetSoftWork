@@ -131,8 +131,12 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 
 
 ## Instructions<a name="inst3"></a>
-
+Right click on the chart to see a menu of options, click on 'Date Comparison'
+![](screenshots/right-click-menu.PNG)
+<br/>
+If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the Custom Periods tab, enter the start and end dates of the months you want to compare and press 'OK'.
 ![](screenshots/compare-non-consecutive-months.PNG)
+The chart should change to show only the two data points, one for each month you entered the date ranges of.
 ![](screenshots/compare-non-consecutive-months-result.PNG)
 
 ## ## How do I compare three or more months?<a name="add"></a>
