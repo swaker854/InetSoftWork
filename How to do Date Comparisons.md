@@ -15,7 +15,13 @@ This document contains instructions on how to perform the most common date compa
 
 
 ## How do I compare this past week to the same week last year? <a name="week"></a>
+[Instructions](#inst1)
 
+[How do I compare this past month to the same month last year?](#month)
+
+[How do I compare two nonconsecutive months?](#nonconsecutive)
+
+# Instructions<a name="inst1"></a>
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 <br/>
