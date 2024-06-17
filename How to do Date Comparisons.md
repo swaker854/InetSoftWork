@@ -19,9 +19,9 @@ This document contains instructions on how to perform the most common date compa
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 
+Make sure you are on the 'Standard Periods' tab. 
 
-
-
+![](screenshots/compare-two-years.PNG)
 
 <br/><br/><br/>
 
