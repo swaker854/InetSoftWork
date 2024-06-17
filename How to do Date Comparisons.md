@@ -44,13 +44,13 @@ The chart should change to show only the two data points, one for the most recen
 ![](screenshots/compare-same-week-result.PNG)
 
 
-## What if I want to compare a previous week to the same week last year?<a name="prev1"></a>
+## How do I compare a previous week to the same week last year?<a name="prev1"></a>
 
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the week you want to compare with the same week last year.
 
-## What if I want to the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
+## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
-## What if I want to compare the past two or three weeks with the same period last year?<a name="multiple1"></a>
+## How do I compare the past two or three weeks with the same period last year?<a name="multiple1"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 
 
@@ -135,9 +135,9 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 ![](screenshots/compare-non-consecutive-months.PNG)
 ![](screenshots/compare-non-consecutive-months-result.PNG)
 
-## What if I want to compare three or more months?<a name="add"></a>
+## ## How do I compare three or more months?<a name="add"></a>
 
-## Comparing Arbitrary<a name="arb"></a>
+## Comparing Custom Periods<a name="arb"></a>
 
 
 
