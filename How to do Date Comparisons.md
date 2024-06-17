@@ -27,7 +27,7 @@ This document contains instructions on how to perform the most common date compa
 
 
 ### Instructions<a name="inst1"></a>
-Right click on the chart to see a menu of options, click on 'Date Comparison'
+Right click on the chart to see a menu of options, click on 'Date Comparison'.
 ![](screenshots/right-click-menu.PNG)
 <br/>
 Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
@@ -71,7 +71,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 
 ## Instructions<a name="inst2"></a>
-Right click on the chart to see a menu of options, click on 'Date Comparison'
+Right click on the chart to see a menu of options, click on 'Date Comparison'.
 ![](screenshots/right-click-menu.PNG)
 <br/>
 Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
@@ -131,7 +131,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 
 
 ## Instructions<a name="inst3"></a>
-Right click on the chart to see a menu of options, click on 'Date Comparison'
+Right click on the chart to see a menu of options, click on 'Date Comparison'.
 ![](screenshots/right-click-menu.PNG)
 <br/>
 If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the Custom Periods tab, enter the start and end dates of the months you want to compare and click 'OK'.
