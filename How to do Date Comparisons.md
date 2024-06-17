@@ -80,4 +80,4 @@ Right click on the chart to see a menu of options, click on 'Date Comparison'
 
 
 
-![](screenshots/temp-agency-chart.PNG)
+
