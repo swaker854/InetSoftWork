@@ -70,9 +70,25 @@ Perform the steps above, except where it says 'Range End Date' uncheck the box f
 
 
 ## Instructions<a name="inst2"></a>
-## What if I want to compare a previous week to the same week last year?<a name="prev2"></a>
-## What if I want to the past seven days starting in the middle of the week to the same period last year?<a name="middle2"></a>
-## What if I want to compare the past two or three weeks with the same period last year?<a name="multiple2"></a>
+Right click on the chart to see a menu of options, click on 'Date Comparison'
+![](screenshots/right-click-menu.PNG)
+<br/>
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
+
+![](screenshots/compare-two-years.PNG)
+
+<br/>
+
+Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'.
+
+![](screenshots/compare-same-month.PNG)
+<br/>
+The chart should change to show only the two data points, one for the most recent month, and one for the same month last year.
+![](screenshots/compare-same-month-result.PNG)
+
+## What if I want to compare a previous month to the same month last year?<a name="prev2"></a>
+## What if I want to the past thirty days starting in the middle of the month to the same thirty dayslast year?<a name="middle2"></a>
+## What if I want to compare the past two or three months with the same months last year?<a name="multiple2"></a>
 
 
 
