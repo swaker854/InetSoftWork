@@ -26,7 +26,7 @@ This document contains instructions on how to perform the most common date compa
 
 
 
-## Instructions<a name="inst1"></a>
+### Instructions<a name="inst1"></a>
 Right click on the chart to see a menu of options, click on 'Date Comparison'
 ![](screenshots/right-click-menu.PNG)
 <br/>
