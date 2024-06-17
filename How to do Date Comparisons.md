@@ -131,6 +131,10 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 
 
 ## Instructions<a name="inst3"></a>
+
+![](screenshots/compare-non-consecutive-months.PNG)
+![](screenshots/compare-non-consecutive-months-result.PNG)
+
 ## What if I want to compare three or more months?<a name="add"></a>
 
 ## Comparing Arbitrary<a name="arb"></a>
