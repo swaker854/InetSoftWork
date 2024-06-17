@@ -144,6 +144,8 @@ The chart should change to show only the two data points, one for each month you
 
 ##  How do I compare three or more months?<a name="add"></a>
 You may compare as many periods as you like in the Custom Periods tab, click the + button underneath the visible date ranges to add more periods.
+![](screenshots/add-additional-custom-ranges.PNG)
+
 ## Comparing Custom Periods<a name="arb"></a>
 In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions above but enter date ranges that address your query.
 
