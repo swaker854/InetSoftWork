@@ -28,9 +28,9 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous and sel
 Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'.
 
 ![](screenshots/compare-same-week.PNG)
-
-
-
+<br/>
+The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
+![](screenshots/compare-same-week-result.PNG)
 
 
 
