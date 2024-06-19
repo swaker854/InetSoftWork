@@ -23,6 +23,8 @@ This document contains instructions on how to perform the most common date compa
 
 [When starting from the middle of a month](#middle2)
 
+[When starting with a previous month](#prev2)
+
 [When comparing periods of multiple months](#multiple2)
 
 [When starting from the middle of a week](#middle1)
@@ -79,7 +81,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 [Instructions](#inst2)
 
-[When starting with a previous month](#prev2)
+
 
 <br/><br/><br/>
 
