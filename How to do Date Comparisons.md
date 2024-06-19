@@ -55,7 +55,7 @@ The chart should change to show only the two data points, one for the most recen
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the week you want to compare with the same week last year.
 
 
-# How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
+## How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 ##  How do I compare a previous month to the same month last year?<a name="prev2"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
