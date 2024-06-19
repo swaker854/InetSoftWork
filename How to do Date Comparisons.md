@@ -4,7 +4,7 @@ This document contains instructions on how to perform the most common date compa
 # Most Common Date Comparisons
 [How do I compare this past week to the same week last year?](#week)
 
-
+[How do I compare this past week to the previous week?](#previous)
 
 [How do I compare two nonconsecutive months from the same year?](#nonconsecutive)
 
@@ -79,12 +79,13 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 
 
+# How do I compare this past week to the same week last year? <a name="previous"></a>
+[Instructions](#inst2)
 
 
 
 
-
-
+### Instructions<a name="inst1"></a>
 
 
 
