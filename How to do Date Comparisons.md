@@ -121,6 +121,8 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 [Adding additional periods for comparison](#add)
 
+## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
+In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions above but enter date ranges that address your query.
 
 
 ## Instructions<a name="inst3"></a>
@@ -140,8 +142,6 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 ![](screenshots/add-additional-custom-ranges.PNG)
 
-## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
-In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions above but enter date ranges that address your query.
 
 
 
