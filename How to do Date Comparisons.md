@@ -6,7 +6,7 @@ This document contains instructions on how to perform the most common date compa
 
 [How do I compare this past week to the previous week?](#previous)
 
-[How do I compare two nonconsecutive months from the same year?](#nonconsecutive)
+[How do I compare two arbitrary periods?](#nonconsecutive)
 
 
 
@@ -114,7 +114,7 @@ Follow the instructions above, except select 'Months" instead of 'Weeks' in both
 
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 
-# How do I compare two nonconsecutive months from the same year?<a name="nonconsecutive"></a>
+# How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
 
 [Comparing Arbitrary Periods](#arb)
 
