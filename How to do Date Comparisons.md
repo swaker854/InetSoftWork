@@ -92,16 +92,16 @@ Right click on the chart to see a menu of options, click on 'Date Comparison'.
 <br/>
 Make sure you are on the 'Standard Periods' tab.  Enter '1' in 'Previous' and select 'Weeks' in the dropdown menu. Check box for 'Today' and 'Include Week For End Date'. Uncheck the box for 'From Beginning of Each Week To...'
 
-![](screenshots/compare-same-week.PNG)
+![](screenshots/compare-one-week.PNG)
 
 <br/>
 
-Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+Select 'All' under 'Compare Data of', and 'Week' under 'Granularity'. Click 'Ok'.
 
-![](screenshots/compare-same-week.PNG)
+![](screenshots/compare-past-two-weeks.PNG)
 <br/>
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
-![](screenshots/compare-same-week-result.PNG)
+![](screenshots/compare-past-two-weeks-result.PNG)
 
 
 
