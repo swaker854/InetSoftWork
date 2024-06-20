@@ -81,7 +81,9 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 # How do I compare this past week to previous week? <a name="previous"></a>
 [Instructions](#inst2)
+
 [When comparing a current month to previous month](#prev2)
+
 [When comparing seven day periods starting in the middle of the week](#rolling)
 
 
