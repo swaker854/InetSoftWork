@@ -79,10 +79,10 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 
 
-# How do I compare this past week to the same week last year? <a name="previous"></a>
+# How do I compare this past week to previous week? <a name="previous"></a>
 [Instructions](#inst2)
-
-
+[When comparing a current month to previous month](#prev2)
+[When comparing seven day periods starting in the middle of the week](#rolling)
 
 
 ### Instructions<a name="inst2"></a>
@@ -103,25 +103,25 @@ Select 'All' under 'Compare Data of', and 'Week' under 'Granularity'. Click 'Ok'
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
 ![](screenshots/compare-past-two-weeks-result.PNG)
 
+### How do I compare this past month to the previous month?<a name="prev2"></a>
 
+Follow the instructions above, except select 'Months" instead of 'Weeks' in both dropdowns.
 
+### How do I compare the past two seven day periods, starting in the middle of the week?<a name="rolling"></a>
 
+Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 
 # How do I compare two nonconsecutive months from the same year?<a name="nonconsecutive"></a>
 
-
-
+[Comparing Arbitrary Periods](#arb)
 [Instructions](#inst3)
 
-[Adding additional months for comparison](#add)
-
-[Using Custom Periods](#arb)
-
+[Adding additional periods for comparison](#add)
 
 
 
 ## Instructions<a name="inst3"></a>
-Right click on the chart to see a menu of options, click on 'Date Comparison'.
+This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
 ![](screenshots/right-click-menu.PNG)
 <br/>
 If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the 'Custom Periods' tab, enter the start and end dates of the months you want to compare and click 'OK'.
@@ -137,7 +137,7 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 ![](screenshots/add-additional-custom-ranges.PNG)
 
-## Comparing Custom Periods<a name="arb"></a>
+## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
 In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions above but enter date ranges that address your query.
 
 
