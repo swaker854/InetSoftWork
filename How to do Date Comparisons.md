@@ -90,6 +90,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 ### Instructions<a name="inst2"></a>
 
 Right click on the chart to see a menu of options, click on 'Date Comparison'.
+
 ![](screenshots/right-click-menu.PNG)
 <br/>
 Make sure you are on the 'Standard Periods' tab.  Enter '1' in 'Previous' and select 'Weeks' in the dropdown menu. Check box for 'Today' and 'Include Week For End Date'. Uncheck the box for 'From Beginning of Each Week To...'
