@@ -1,4 +1,4 @@
-This document contains instructions on how to perform the most common date comparisons with InetSoft's tool.
+This document contains instructions on how to perform the most common date comparisons with InetSoft's tool. Date comparison is a feature available on charts with a date dimension.
 
 
 # Most Common Date Comparisons
