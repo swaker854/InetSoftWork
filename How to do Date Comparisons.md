@@ -128,6 +128,7 @@ In addition to comparing nonconsecutive months, the Custom Periods tab can also 
 
 ## Instructions<a name="inst3"></a>
 This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
+
 ![](screenshots/right-click-menu.PNG)
 <br/>
 If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the 'Custom Periods' tab, enter the start and end dates of the months you want to compare and click 'OK'.
