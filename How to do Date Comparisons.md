@@ -87,7 +87,21 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 ### Instructions<a name="inst1"></a>
 
+Right click on the chart to see a menu of options, click on 'Date Comparison'.
+![](screenshots/right-click-menu.PNG)
+<br/>
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Weeks' in the dropdown menu. Check box for 'Today' and 'Include Week For End Date'. Uncheck the box for 'From Beginning of Each Week To...'
 
+![](screenshots/compare-two-years.PNG)
+
+<br/>
+
+Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+
+![](screenshots/compare-same-week.PNG)
+<br/>
+The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
+![](screenshots/compare-same-week-result.PNG)
 
 
 
