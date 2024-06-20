@@ -82,7 +82,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 # How do I compare this past week to previous week? <a name="previous"></a>
 [Instructions](#inst2)
 
-[When comparing a current month to previous month](#prev2)
+[When comparing a current month to previous month](#prev3)
 
 [When comparing seven day periods starting in the middle of the week](#rolling)
 
@@ -105,7 +105,7 @@ Select 'All' under 'Compare Data of', and 'Week' under 'Granularity'. Click 'Ok'
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
 ![](screenshots/compare-past-two-weeks-result.PNG)
 
-### How do I compare this past month to the previous month?<a name="prev2"></a>
+### How do I compare this past month to the previous month?<a name="prev3"></a>
 
 Follow the instructions above, except select 'Months" instead of 'Weeks' in both dropdowns.
 
