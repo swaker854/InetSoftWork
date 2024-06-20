@@ -116,6 +116,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 # How do I compare two nonconsecutive months from the same year?<a name="nonconsecutive"></a>
 
 [Comparing Arbitrary Periods](#arb)
+
 [Instructions](#inst3)
 
 [Adding additional periods for comparison](#add)
