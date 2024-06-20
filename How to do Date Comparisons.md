@@ -1,5 +1,7 @@
 This document contains instructions on how to perform the most common date comparisons with InetSoft's tool. Date comparison is a feature available on charts with a date dimension.
 
+The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
+
 
 # Most Common Date Comparisons
 [How do I compare this past week to the same week last year?](#week)
