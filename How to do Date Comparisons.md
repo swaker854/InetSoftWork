@@ -174,10 +174,11 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and se
 
 ![](screenshots/table-compare-past-two-years.PNG)
 
-Select 'All' under 'Compare Data of', and 'Year' under 'Granularity'. Click 'Ok'.
+Select 'All' under 'Compare Data of', and 'Year' under 'Granularity'. Select '%Change & Value'. Click 'Ok'.
 
 ![](screenshots/table-percent-change-and-value.PNG)
 
+The table should update with the most recent year displaying the original aggregates plus the percent change from the previous year.
 
 ![](screenshots/table-date-comparison-plus-percent.PNG)
 
