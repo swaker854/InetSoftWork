@@ -159,7 +159,10 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 
 
+This example will use the crosstab table in the product return dashboard found in the InetSoft gallery
 
+
+[here]([https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison](https://www.inetsoft.com/evaluate/bi_visualization_gallery/dashboard.jsp?dbIdx=9))
 
 ![](screenshots/product-return-table.PNG)
 
