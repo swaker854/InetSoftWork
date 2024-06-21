@@ -155,7 +155,7 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 [Instructions](#taleinst)
 
-##Instructions<a name="taleinst"></a>
+## Instructions<a name="taleinst"></a>
 
 
 
