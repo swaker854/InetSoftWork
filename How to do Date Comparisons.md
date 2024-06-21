@@ -170,8 +170,11 @@ Click on the ... button on the top right corner of the table to access menu opti
 
 ![](screenshots/table-menu.PNG)
 
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
+
 ![](screenshots/table-compare-past-two-years.PNG)
 
+Select 'All' under 'Compare Data of', and 'Year' under 'Granularity'. Click 'Ok'.
 
 ![](screenshots/table-percent-change-and-value.PNG)
 
