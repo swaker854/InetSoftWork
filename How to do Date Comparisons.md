@@ -170,6 +170,10 @@ Click on the ... button on the top right corner of the table to access menu opti
 
 ![](screenshots/table-menu.PNG)
 
+![](screenshots/table-date-comparison-plus-percent.PNG)
 
+![](screenshots/table-percent-change-and-value.PNG)
+
+![](screenshots/table-compare-past-two-years.PNG)
 
 
