@@ -151,12 +151,17 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 ![](screenshots/add-additional-custom-ranges.PNG)
 
-How do I calculate percent change year over year in a table? <a name="table"></a>
+#How do I calculate percent change year over year in a table? <a name="table"></a>
+
+[Instructions](#taleinst)
+
+##Instructions<a name="taleinst"></a>
 
 
 
 
 
+![](screenshots/product-return-table.PNG)
 
 
 
