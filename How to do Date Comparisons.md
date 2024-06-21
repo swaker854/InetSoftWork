@@ -166,6 +166,10 @@ This example will use the crosstab table in the product return dashboard found i
 
 ![](screenshots/product-return-table.PNG)
 
+Click on the ... button on the top right corner of the table to access menu options. Click 'Date Comparison'.
+
+![](screenshots/table-menu.PNG)
+
 
 
 
