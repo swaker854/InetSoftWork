@@ -154,6 +154,7 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 # How do I calculate percent change year over year in a table? <a name="table"></a>
 
 [Instructions](#taleinst)
+
 [When comparing this past month to the same month last year](#month2)
 
 [When starting from the middle of a month](#middle3)
