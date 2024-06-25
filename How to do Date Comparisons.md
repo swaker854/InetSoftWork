@@ -40,7 +40,7 @@ This document contains instructions on how to perform the most common date compa
 
 ### Instructions<a name="inst1"></a>
 
-The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
+The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison){:target="_blank"}
 
 Right click on the chart to see a menu of options, click on 'Date Comparison'.
 
