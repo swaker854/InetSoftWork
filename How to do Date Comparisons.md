@@ -165,7 +165,7 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 [When starting from the middle of a week](#middle4)
 
-[When comparing periods of multiple weeks](#multiple2)
+[When comparing periods of multiple weeks](#multiple4)
 
 
 ## Instructions<a name="taleinst"></a>
@@ -206,5 +206,5 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 
 ## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle4"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
-## How do I compare the past two or three weeks with the same period last year?<a name="multiple2"></a>
+## How do I compare the past two or three weeks with the same period last year?<a name="multiple4"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
