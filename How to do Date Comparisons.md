@@ -121,36 +121,6 @@ Follow the instructions above, except select 'Months" instead of 'Weeks' in both
 
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 
-# How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
-
-[Comparing Arbitrary Periods](#arb)
-
-[Instructions](#inst3)
-
-[Adding additional periods for comparison](#add)
-
-## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
-In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions below but enter date ranges that address your query.
-
-
-## Instructions<a name="inst3"></a>
-This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
-
-![](screenshots/right-click-menu.PNG)
-<br/>
-If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the 'Custom Periods' tab, enter the start and end dates of the months you want to compare and click 'OK'.
-
-![](screenshots/compare-non-consecutive-months.PNG)
-
-The chart should change to show only the two data points, one for each month you entered the date ranges of.
-
-![](screenshots/compare-non-consecutive-months-result.PNG)
-
-##  How do I compare three or more months?<a name="add"></a>
-You may compare as many periods as you like in the 'Custom Periods' tab, click the + button underneath the visible date ranges to add more periods.
-
-![](screenshots/add-additional-custom-ranges.PNG)
-
 # How do I calculate percent change year over year in a table? <a name="table"></a>
 
 [Instructions](#taleinst)
@@ -208,3 +178,35 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
 ## How do I compare the past two or three weeks with the same period last year?<a name="multiple4"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
+
+
+# How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
+
+[Comparing Arbitrary Periods](#arb)
+
+[Instructions](#inst3)
+
+[Adding additional periods for comparison](#add)
+
+## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
+In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions below but enter date ranges that address your query.
+
+
+## Instructions<a name="inst3"></a>
+This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
+
+![](screenshots/right-click-menu.PNG)
+<br/>
+If you want to compare two nonconsecutive months, such as March and May, of the same year or different years, click the 'Custom Periods' tab on the top right of the Date Comparison menu. When in the 'Custom Periods' tab, enter the start and end dates of the months you want to compare and click 'OK'.
+
+![](screenshots/compare-non-consecutive-months.PNG)
+
+The chart should change to show only the two data points, one for each month you entered the date ranges of.
+
+![](screenshots/compare-non-consecutive-months-result.PNG)
+
+##  How do I compare three or more months?<a name="add"></a>
+You may compare as many periods as you like in the 'Custom Periods' tab, click the + button underneath the visible date ranges to add more periods.
+
+![](screenshots/add-additional-custom-ranges.PNG)
+
