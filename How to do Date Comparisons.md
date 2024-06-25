@@ -55,6 +55,7 @@ Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' un
 ![](screenshots/compare-same-week.PNG)
 <br/>
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
+
 ![](screenshots/compare-same-week-result.PNG)
 
 
@@ -110,6 +111,7 @@ Select 'All' under 'Compare Data of', and 'Week' under 'Granularity'. Click 'Ok'
 ![](screenshots/compare-past-two-weeks.PNG)
 <br/>
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
+
 ![](screenshots/compare-past-two-weeks-result.PNG)
 
 ### How do I compare this past month to the previous month?<a name="prev3"></a>
