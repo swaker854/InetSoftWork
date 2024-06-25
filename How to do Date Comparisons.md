@@ -1,6 +1,6 @@
 This document contains instructions on how to perform the most common date comparisons with InetSoft's tool. Date comparison is a feature available on charts with a date dimension.
 
-The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
+
 
 
 # Most Common Date Comparisons
@@ -39,6 +39,9 @@ The example is performed using the dashboard linked [here](https://www.inetsoft.
 
 
 ### Instructions<a name="inst1"></a>
+
+The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
+
 Right click on the chart to see a menu of options, click on 'Date Comparison'.
 
 ![](screenshots/right-click-menu.PNG)
@@ -95,6 +98,8 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 
 ### Instructions<a name="inst2"></a>
+
+The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
 
 Right click on the chart to see a menu of options, click on 'Date Comparison'.
 
