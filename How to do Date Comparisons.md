@@ -159,7 +159,7 @@ You may compare as many periods as you like in the 'Custom Periods' tab, click t
 
 [When starting from the middle of a month](#middle3)
 
-[When starting with a previous month](#prev3)
+[When starting with a previous month](#prev4)
 
 [When comparing periods of multiple months](#multiple3)
 
@@ -197,7 +197,7 @@ The table should update with the most recent year displaying the original aggreg
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month2"></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
-##  How do I compare a previous month to the same month last year?<a name="prev3"></a>
+##  How do I compare a previous month to the same month last year?<a name="prev4"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
 ##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle3"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
