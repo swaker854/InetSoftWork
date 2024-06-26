@@ -7,7 +7,7 @@ right click on the chart to see a menu of options, click on 'Date Comparison'
 <br/>
 Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
-![](screenshots/compare-two-years.PNG)
+![](screenshots/date-comparison-dialog.png)
 
 # Most Common Date Comparisons
 [How do I compare this past week to the same week last year?](#week)
