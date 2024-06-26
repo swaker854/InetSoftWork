@@ -1,4 +1,11 @@
-Date comparion allows a designer or end user to compare measures(numeric values) for two or more date ranges. For charts and crosstabs with a date dimension, it becomes available on the components ... menu. This document demonstrates the most common use cases. A live [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison) is provided that you can play with
+Date comparion allows a designer or end user to compare measures(numeric values) for two or more date ranges. This document demonstrates the most common use cases. A live [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison) is provided that you can play along with.
+
+For charts and crosstabs with a date dimension, Date Comparsion becomes available on the component's built-in menu. In the example,
+right click on the chart to see a menu of options, click on 'Date Comparison'. The comparison dialog window will be presented.
+
+![](screenshots/right-click-menu.PNG)
+<br/>
+
 
 # Most Common Date Comparisons
 [How do I compare this past week to the same week last year?](#week)
@@ -38,11 +45,6 @@ Date comparion allows a designer or end user to compare measures(numeric values)
 ### Instructions<a name="inst1"></a>
 
 The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
-
-Right click on the chart to see a menu of options, click on 'Date Comparison'.
-
-![](screenshots/right-click-menu.PNG)
-<br/>
 
 Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
 
