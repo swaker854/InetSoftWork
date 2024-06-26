@@ -1,4 +1,4 @@
-This document contains instructions on how to perform the most common date comparisons with InetSoft's tool. Date comparison is a feature available on charts with a date dimension.
+Date compasrion allows a designer or end user to compare measures for two or more date ranges. The charts or crosstab with a date dimension, this function automatically becomes available in this component's menu. The document present some most common use cases
 
 
 
