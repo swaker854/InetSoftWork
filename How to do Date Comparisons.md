@@ -50,7 +50,7 @@ The example is performed using the dashboard linked [here](https://www.inetsoft.
 
 Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
 
-![](screenshots/compare-two-years.PNG)
+![](screenshots/compare-two-previous-years.PNG)
 
 <br/>
 
