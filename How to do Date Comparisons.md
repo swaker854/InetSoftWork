@@ -24,10 +24,10 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-# How do I compare this past week to the same week last year? <a name="week"></a>
+# How do I compare the most recent week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
-[When starting with a previous week](#prev1)
+[When starting with this week](#prev1)
 
 [When comparing this past month to the same month last year](#month)
 
@@ -48,7 +48,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
 
-Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
+Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Unheck box for 'Today' enter the range end date for your data. In this example, the range end date is 2022-5-28 . Uncheck the box for 'Include Year For End Date' and'From Beginning of Each Year To...'
 
 ![](screenshots/compare-two-previous-years.PNG)
 
@@ -63,9 +63,9 @@ The chart should change to show only the two data points, one for the most recen
 ![](screenshots/compare-same-week-result.PNG)
 
 
-## How do I compare a previous week to the same week last year?<a name="prev1"></a>
+## How do I compare this current week to the same week last year?<a name="prev1"></a>
 
-Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the week you want to compare with the same week last year.
+Perform the steps above, except where it says 'Range End Date' check the box for 'Today' .
 
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
