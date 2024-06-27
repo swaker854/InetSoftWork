@@ -1,4 +1,13 @@
-Date comparion allows a designer or end user to compare measures(numeric values) for two or more date ranges. For charts and crosstabs with a date dimension, it becomes available on the components ... menu. This document demonstrates the most common use cases. A live [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison) is provided that you can play with
+Date comparion allows a designer or end user to compare measures(numeric values) for two or more date ranges. This document demonstrates the most common use cases. A live [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison) is provided that you can play along with.
+
+For charts and crosstabs with a date dimension, Date Comparsion becomes available on the component's built-in menu. In the example,
+right click on the chart to see a menu of options, click on 'Date Comparison'
+
+![](screenshots/right-click-menu.PNG)
+<br/>
+Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
+
+![](screenshots/date-comparison-dialog.png)
 
 # Most Common Date Comparisons
 [How do I compare this past week to the same week last year?](#week)
@@ -15,10 +24,10 @@ Date comparion allows a designer or end user to compare measures(numeric values)
 
 
 
-# How do I compare this past week to the same week last year? <a name="week"></a>
+# How do I compare the most recent week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
-[When starting with a previous week](#prev1)
+[When starting with this week](#prev1)
 
 [When comparing this past month to the same month last year](#month)
 
@@ -39,18 +48,13 @@ Date comparion allows a designer or end user to compare measures(numeric values)
 
 The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
 
-Right click on the chart to see a menu of options, click on 'Date Comparison'.
+Make sure you are on the 'Standard Periods' tab.  In the first two dropdown menus, the type and number of date periods included are selected. For this example, enter '2' In 'Previous', and select 'Years' in the second dropdown menu. Uncheck box for 'Today' since the dataset does not cover today's date. Instead, enter the range end date for the data. In this example, the range end date is 2022-5-28 . Check the box for 'Include Year For End Date'. Uncheck 'From Beginning of Each Year To...' since we want to compare the full previous year.
 
-![](screenshots/right-click-menu.PNG)
-<br/>
-
-Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and select 'Years' in the dropdown menu. Check box for 'Today' and 'Include Year For End Date'. Uncheck the box for 'From Beginning of Each Year To...'
-
-![](screenshots/compare-two-years.PNG)
+![](screenshots/compare-two-previous-years.PNG)
 
 <br/>
 
-Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+The next dropdowns cover which periods are being compared and in what units of time. Select 'Same Week' under 'Compare Data of',  'Year' in 'For Each', and 'Week' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 
 ![](screenshots/compare-same-week.PNG)
 <br/>
@@ -59,9 +63,9 @@ The chart should change to show only the two data points, one for the most recen
 ![](screenshots/compare-same-week-result.PNG)
 
 
-## How do I compare a previous week to the same week last year?<a name="prev1"></a>
+## How do I compare this current week to the same week last year?<a name="prev1"></a>
 
-Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the week you want to compare with the same week last year.
+Perform the steps above, except where it says 'Range End Date' check the box for 'Today' .
 
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
@@ -161,6 +165,7 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and se
 ![](screenshots/table-compare-past-two-years.PNG)
 
 Select 'All' under 'Compare Data of', and 'Year' under 'Granularity'. Select '%Change & Value'. Click 'Ok'.
+screenshots/table-percent-change-and-value.PNG
 
 ![](screenshots/table-percent-change-and-value.PNG)
 
