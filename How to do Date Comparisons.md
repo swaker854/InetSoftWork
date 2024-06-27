@@ -48,7 +48,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 The example is performed using the dashboard linked [here](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
 
-Make sure you are on the 'Standard Periods' tab.  In the first two dropdown menus, the type and number of date periods included are selected. For this example, enter '2' In 'Previous', and select 'Years' in the second dropdown menu. Uncheck box for 'Today' since the dataset does not cover today's date. Instead, enter the range end date for the data. In this example, the range end date is 2022-5-28 . Check the box for 'Include Year For End Date'. Uncheck'From Beginning of Each Year To...' since we want to compare the full previous year.
+Make sure you are on the 'Standard Periods' tab.  In the first two dropdown menus, the type and number of date periods included are selected. For this example, enter '2' In 'Previous', and select 'Years' in the second dropdown menu. Uncheck box for 'Today' since the dataset does not cover today's date. Instead, enter the range end date for the data. In this example, the range end date is 2022-5-28 . Check the box for 'Include Year For End Date'. Uncheck 'From Beginning of Each Year To...' since we want to compare the full previous year.
 
 ![](screenshots/compare-two-previous-years.PNG)
 
