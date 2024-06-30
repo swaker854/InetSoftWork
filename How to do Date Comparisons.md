@@ -24,7 +24,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-# How do I compare this past week to the same week last year? <a name="week"></a>
+## How do I compare this past week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
 [When starting with a previous week](#prev1)
