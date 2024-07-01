@@ -97,7 +97,7 @@ How To             |  Result
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 How To             |  Result
 :-------------------------:|:-------------------------:
-![](screenshots/compare-seven-days.PNG)  |  ![](screenshots/compare-seven-days-result.PNG)
+![](screenshots/compare-three-weeks.PNG)  |  ![](screenshots/compare-three-weeks-result.PNG)
 
 
 
