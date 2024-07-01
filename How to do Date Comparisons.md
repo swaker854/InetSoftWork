@@ -22,12 +22,10 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-
-
 # How do I compare the most recent week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
-[When starting with this week](#prev1)
+[When comparing the current week to the same week last year](#prev1)
 
 [When comparing this past month to the same month last year](#month)
 
@@ -66,22 +64,40 @@ The chart should change to show only the two data points, one for the most recen
 ## How do I compare this current week to the same week last year?<a name="prev1"></a>
 
 Perform the steps above, except where it says 'Range End Date' check the box for 'Today' .
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-current-week.PNG)  |  ![](screenshots/compare-current-week-result.PNG)
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-current-month.PNG)  |  ![](screenshots/compare-current-month-result.PNG)
 ##  How do I compare a previous month to the same month last year?<a name="prev2"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-same-month.PNG)  |  ![](screenshots/compare-same-month-result.PNG)
 ##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle2"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-past-thirty-days.PNG)  |  ![](screenshots/compare-past-thirty-days-result.PNG)
 ## How do I compare the past two or three months with the same months last year?<a name="multiple2"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-past-three-months.PNG)  |  ![](screenshots/compare-past-three-months-result.PNG)
 ## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-seven-days.PNG)  |  ![](screenshots/compare-seven-days-result.PNG)
 ## How do I compare the past two or three weeks with the same period last year?<a name="multiple1"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-three-weeks.PNG)  |  ![](screenshots/compare-three-weeks-result.PNG)
 
 
 
