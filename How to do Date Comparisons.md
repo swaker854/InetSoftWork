@@ -18,7 +18,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 [How do I compare two arbitrary periods?](#nonconsecutive)
 
-![alt-text-1](screenshots/compare-same-month-result.PNG "title-1") ![alt-text-2](screenshots/compare-same-month.PNG"title-2")
+![alt-text-1](screenshots/compare-same-month-result.PNG "title-1") ![alt-text-2](screenshots/compare-same-month.PNG "title-2")
 
 
 
