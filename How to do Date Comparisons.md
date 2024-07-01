@@ -80,6 +80,8 @@ How To             |  Result
 ![](screenshots/compare-same-month.PNG)  |  ![](screenshots/compare-same-month-result.PNG)
 ## How do I compare the past two or three months with the same months last year?<a name="multiple2"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
+How To             |  Result
+:-------------------------:|:-------------------------:
 ![](screenshots/compare-past-three-months.PNG)  |  ![](screenshots/compare-past-three-months-result.PNG)
 ## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
