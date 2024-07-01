@@ -77,7 +77,7 @@ How To             |  Result
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
 How To             |  Result
 :-------------------------:|:-------------------------:
-![](screenshots/compare-same-month.PNGG)  |  ![](screenshots/compare-same-month-result.PNG)
+![](screenshots/compare-same-month.PNG)  |  ![](screenshots/compare-same-month-result.PNG)
 ## How do I compare the past two or three months with the same months last year?<a name="multiple2"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
 
