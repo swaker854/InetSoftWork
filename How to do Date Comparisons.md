@@ -20,7 +20,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-                           |  
+  Solarized dark             |  Solarized Ocean                         |  
 :-------------------------:|:-------------------------:
 ![](screenshots/right-click-menu.PNG))  |  ![](screenshots/date-comparison-dialog.png)
 
