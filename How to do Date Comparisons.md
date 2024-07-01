@@ -18,7 +18,6 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 [How do I compare two arbitrary periods?](#nonconsecutive)
 
-![alt-text-1](screenshots/compare-same-month-result.PNG "title-1") ![alt-text-2](screenshots/compare-same-month.PNG "title-2")
 
 
 
@@ -71,6 +70,9 @@ Perform the steps above, except where it says 'Range End Date' check the box for
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 ##  How do I compare a previous month to the same month last year?<a name="prev2"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-same-month.PNG)  |  ![](screenshots/compare-same-month-result.PNG)
 ##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle2"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
 ## How do I compare the past two or three months with the same months last year?<a name="multiple2"></a>
