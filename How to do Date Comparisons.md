@@ -21,6 +21,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
+:-------------------------:|:-------------------------:
 ![](screenshots/right-click-menu.PNG))  |  ![](screenshots/date-comparison-dialog.png)
 
 
