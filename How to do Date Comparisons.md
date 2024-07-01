@@ -20,8 +20,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-  test 1           |  test 2                        |  
-:-------------------------:|:-------------------------:
+
 ![](screenshots/right-click-menu.PNG))  |  ![](screenshots/date-comparison-dialog.png)
 
 
