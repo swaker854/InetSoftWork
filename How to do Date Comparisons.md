@@ -139,6 +139,9 @@ The chart should change to show only the two data points, one for the most recen
 ### How do I compare this past month to the previous month?<a name="prev3"></a>
 
 Follow the instructions above, except select 'Months" instead of 'Weeks' in both dropdowns.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/current-to-previous-month.PNG)  |  ![](screenshots/current-to-previous-month-result.PNG)
 
 ### How do I compare the past two seven day periods, starting in the middle of the week?<a name="rolling"></a>
 
