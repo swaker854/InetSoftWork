@@ -213,7 +213,9 @@ How To             |  Result
 ![](screenshots/table-past-three-months.PNG)  |  ![](screenshots/table-past-three-months-result.PNG)
 ## How do I compare the past two or three weeks with the same period last year?<a name="multiple4"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-past-seven-days.PNG)  |  ![](screenshots/table-past-seven-days-result.PNG)
 
 # How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
 
