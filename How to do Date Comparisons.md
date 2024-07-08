@@ -198,6 +198,9 @@ How To             |  Result
 ![](screenshots/table-compare-previous-month.PNG)  |  ![](screenshots/table-compare-previous-month-result.PNG)
 ##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle3"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-past-thirty-days.PNG)  |  ![](screenshots/table-past-thirty-days-result.PNG)
 ## How do I compare the past two or three months with the same months last year?<a name="multiple3"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
 
