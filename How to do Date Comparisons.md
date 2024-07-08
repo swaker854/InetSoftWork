@@ -227,7 +227,7 @@ How To             |  Result
 
 ## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
 In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions below but enter date ranges that address your query.
-
+![](screenshots/add-additional-custom-ranges.PNG)
 
 ## Instructions<a name="inst3"></a>
 This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
@@ -245,5 +245,9 @@ The chart should change to show only the two data points, one for each month you
 ##  How do I compare three or more months?<a name="add"></a>
 You may compare as many periods as you like in the 'Custom Periods' tab, click the + button underneath the visible date ranges to add more periods.
 
-![](screenshots/add-additional-custom-ranges.PNG)
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-three-custom-periods.PNG)  |  ![](screenshots/compare-three-custom-periods-result.PNG)
+
+
 
