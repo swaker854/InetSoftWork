@@ -66,6 +66,9 @@ The chart should change to show only the two data points, one for the most recen
 
 Perform the steps above, except where it says 'Display' select '%Change'.
 
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/percent-change-both-weeks.PNG)  |  ![](screenshots/percent-change-both-weeks-result.PNG)
 
 ## How do I compare this current week to the same week last year?<a name="prev1"></a>
 
