@@ -146,6 +146,9 @@ How To             |  Result
 ### How do I compare the past two seven day periods, starting in the middle of the week?<a name="rolling"></a>
 
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/current-to-previous-week.PNG)  |  ![](screenshots/current-to-previous-week-result.PNG)
 
 # How do I calculate percent change year over year in a table? <a name="table"></a>
 
