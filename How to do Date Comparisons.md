@@ -191,6 +191,9 @@ The table should update with the most recent year displaying the original aggreg
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month2"></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-compare-past-month.PNG)  |  ![](screenshots/table-compare-past-month-result.PNG)
 ##  How do I compare a previous month to the same month last year?<a name="prev4"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
 How To             |  Result
