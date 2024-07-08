@@ -215,7 +215,7 @@ How To             |  Result
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
 How To             |  Result
 :-------------------------:|:-------------------------:
-![](screenshotstable-compare-three-weeks.PNG)  |  ![](screenshots/table-compare-three-weeks-result.PNG)
+![](screenshots/table-compare-three-weeks.PNG)  |  ![](screenshots/table-compare-three-weeks-result.PNG)
 
 # How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
 
