@@ -25,6 +25,8 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 ## How do I compare the most recent week to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
+[When displaying the percent change from the same week last year](#percent)
+
 [When comparing the current week to the same week last year](#prev1)
 
 [When comparing this past month to the same month last year](#month)
@@ -59,6 +61,10 @@ The next dropdowns cover which periods are being compared and in what units of t
 The chart should change to show only the two data points, one for the most recent week, and one for the same week last year.
 
 ![](screenshots/compare-same-week-result.PNG)
+
+## How do I display the percent change between both weeks?
+
+Perform the steps above, except where it says 'Display' select '%Change'.
 
 
 ## How do I compare this current week to the same week last year?<a name="prev1"></a>
