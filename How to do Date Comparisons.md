@@ -62,7 +62,7 @@ The chart should change to show only the two data points, one for the most recen
 
 ![](screenshots/compare-same-week-result.PNG)
 
-## How do I display the percent change between both weeks?
+## How do I display the percent change between both weeks?<a name="percent"></a>
 
 Perform the steps above, except where it says 'Display' select '%Change'.
 
