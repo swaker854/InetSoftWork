@@ -10,7 +10,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 ![](screenshots/date-comparison-dialog.png)
 
 # Most Common Date Comparisons
-[How do I compare the most recent week to the same week last year?](#week)
+[How do I compare the most recent week in a dataset to the same week last year?](#week)
 
 [How do I compare this past week to the previous week?](#previous)
 
@@ -22,7 +22,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-## How do I compare the most recent week to the same week last year? <a name="week"></a>
+## How do I compare the most recent week in a dataset to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
 [When displaying the percent change from the same week last year](#percent)
