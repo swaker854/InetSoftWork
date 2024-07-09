@@ -25,21 +25,21 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 ## How do I compare the most recent week in a dataset to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
-[When displaying the percent change from the same week last year](#percent)
+Similar case #1 [When displaying the percent change from the same week last year](#percent)
 
-[When comparing the current week to the same week last year](#prev1)
+Similar case #2 [When comparing the current week to the same week last year](#prev1)
 
-[When comparing this past month to the same month last year](#month)
+Similar case #3 [When comparing this past month to the same month last year](#month)
 
-[When starting from the middle of a month](#middle2)
+Similar case #4 [When starting from the middle of a month](#middle2)
 
-[When starting with a previous month](#prev2)
+Similar case #5 [When starting with a previous month](#prev2)
 
-[When comparing periods of multiple months](#multiple2)
+Similar case #6 [When comparing periods of multiple months](#multiple2)
 
-[When starting from the middle of a week](#middle1)
+Similar case #7 [When starting from the middle of a week](#middle1)
 
-[When comparing periods of multiple weeks](#multiple1)
+Similar case #8 [When comparing periods of multiple weeks](#multiple1)
 
 
 
