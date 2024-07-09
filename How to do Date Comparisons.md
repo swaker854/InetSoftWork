@@ -1,5 +1,4 @@
 
-
 For charts and crosstabs with a date dimension, Date Comparsion becomes available on the component's built-in menu. In the example,
 right click on the chart to see a menu of options, click on 'Date Comparison'
 
