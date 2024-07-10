@@ -10,7 +10,7 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 ![](screenshots/date-comparison-dialog.png)
 
 # Most Common Date Comparisons
-[How do I compare the most recent week to the same week last year?](#week)
+[How do I compare the most recent week in a dataset to the same week last year?](#week)
 
 [How do I compare this past week to the previous week?](#previous)
 
@@ -22,22 +22,24 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 
 
-# How do I compare the most recent week to the same week last year? <a name="week"></a>
+## How do I compare the most recent week in a dataset to the same week last year? <a name="week"></a>
 [Instructions](#inst1)
 
-[When comparing the current week to the same week last year](#prev1)
+Similar case #1 [When displaying the percent change from the same week last year](#percent)
 
-[When comparing this past month to the same month last year](#month)
+Similar case #2 [When comparing the current week to the same week last year](#prev1)
 
-[When starting from the middle of a month](#middle2)
+Similar case #3 [When comparing this past month to the same month last year](#month)
 
-[When starting with a previous month](#prev2)
+Similar case #4 [When starting from the middle of a month](#middle2)
 
-[When comparing periods of multiple months](#multiple2)
+Similar case #5 [When starting with a previous month](#prev2)
 
-[When starting from the middle of a week](#middle1)
+Similar case #6 [When comparing periods of multiple months](#multiple2)
 
-[When comparing periods of multiple weeks](#multiple1)
+Similar case #7 [When starting from the middle of a week](#middle1)
+
+Similar case #8 [When comparing periods of multiple weeks](#multiple1)
 
 
 
@@ -60,6 +62,13 @@ The chart should change to show only the two data points, one for the most recen
 
 ![](screenshots/compare-same-week-result.PNG)
 
+## How do I display the percent change between both weeks?<a name="percent"></a>
+
+Perform the steps above, except where it says 'Display' select '%Change'.
+
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/percent-change-both-weeks.PNG)  |  ![](screenshots/percent-change-both-weeks-result.PNG)
 
 ## How do I compare this current week to the same week last year?<a name="prev1"></a>
 
@@ -139,10 +148,16 @@ The chart should change to show only the two data points, one for the most recen
 ### How do I compare this past month to the previous month?<a name="prev3"></a>
 
 Follow the instructions above, except select 'Months" instead of 'Weeks' in both dropdowns.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/current-to-previous-month.PNG)  |  ![](screenshots/current-to-previous-month-result.PNG)
 
 ### How do I compare the past two seven day periods, starting in the middle of the week?<a name="rolling"></a>
 
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/current-to-previous-week.PNG)  |  ![](screenshots/current-to-previous-week-result.PNG)
 
 # How do I calculate percent change year over year in a table? <a name="table"></a>
 
@@ -191,18 +206,34 @@ The table should update with the most recent year displaying the original aggreg
 
 ## How do I compare this past month to the same month last year? <a name="month"></a><a name="month2"></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-compare-past-month.PNG)  |  ![](screenshots/table-compare-past-month-result.PNG)
 ##  How do I compare a previous month to the same month last year?<a name="prev4"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-compare-previous-month.PNG)  |  ![](screenshots/table-compare-previous-month-result.PNG)
 ##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle3"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-past-thirty-days.PNG)  |  ![](screenshots/table-past-thirty-days-result.PNG)
 ## How do I compare the past two or three months with the same months last year?<a name="multiple3"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-past-three-months.PNG)  |  ![](screenshots/table-past-three-months-result.PNG)
 ## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle4"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-past-seven-days.PNG)  |  ![](screenshots/table-past-seven-days-result.PNG)
 ## How do I compare the past two or three weeks with the same period last year?<a name="multiple4"></a>
 Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
-
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/table-compare-three-weeks.PNG)  |  ![](screenshots/table-compare-three-weeks-result.PNG)
 
 # How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
 
@@ -214,7 +245,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end date of the peri
 
 ## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
 In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions below but enter date ranges that address your query.
-
+![](screenshots/add-additional-custom-ranges.PNG)
 
 ## Instructions<a name="inst3"></a>
 This example will show how to compare two nonconsecutive months from the same year. Right click on the chart to see a menu of options, click on 'Date Comparison'.
@@ -232,5 +263,9 @@ The chart should change to show only the two data points, one for each month you
 ##  How do I compare three or more months?<a name="add"></a>
 You may compare as many periods as you like in the 'Custom Periods' tab, click the + button underneath the visible date ranges to add more periods.
 
-![](screenshots/add-additional-custom-ranges.PNG)
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/compare-three-custom-periods.PNG)  |  ![](screenshots/compare-three-custom-periods-result.PNG)
+
+
 
