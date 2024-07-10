@@ -1,3 +1,4 @@
+The date comparison utility allows a designer or end user to compare measures (numeric values) for two or more date ranges. This document demonstrates the most common use cases. A live [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison) is provided that you can play along with.
 
 For charts and crosstabs with a date dimension, Date Comparsion becomes available on the component's built-in menu. In the example,
 right click on the chart to see a menu of options, click on 'Date Comparison'
