@@ -31,15 +31,9 @@ Similar case #2 [When comparing the current week to the same week last year](#pr
 
 Similar case #3 [When comparing this past month to the same month last year](#month)
 
-Similar case #4 [When starting from the middle of a month](#middle2)
+Similar case #4 [When starting from the middle of a week](#middle1)
 
-Similar case #5 [When starting with a previous month](#prev2)
-
-Similar case #6 [When comparing periods of multiple months](#multiple2)
-
-Similar case #7 [When starting from the middle of a week](#middle1)
-
-Similar case #8 [When comparing periods of multiple weeks](#multiple1)
+Similar case #5 [When comparing periods of multiple weeks](#multiple1)
 
 
 
@@ -87,16 +81,7 @@ Perform the steps above, except where it says 'Range End Date' uncheck the box f
 How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/compare-same-month.PNG)  |  ![](screenshots/compare-same-month-result.PNG)
-##  How do I compare the past thirty days starting in the middle of the month to the same thirty days last year?<a name="middle2"></a>
-Use the  [Custom Periods](#arb) tab and enter the start and end dates of both thirty day periods.
-How To             |  Result
-:-------------------------:|:-------------------------:
-![](screenshots/compare-past-thirty-days.PNG)  |  ![](screenshots/compare-past-thirty-days-result.PNG)
-## How do I compare the past two or three months with the same months last year?<a name="multiple2"></a>
-Use the  [Custom Periods](#arb) tab and enter the start and end dates of the periods you want to compare.
-How To             |  Result
-:-------------------------:|:-------------------------:
-![](screenshots/compare-past-three-months.PNG)  |  ![](screenshots/compare-past-three-months-result.PNG)
+
 ## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle1"></a>
 Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
 How To             |  Result
@@ -171,9 +156,6 @@ Similar case #3 [When starting with a previous month](#prev4)
 
 Similar case #4 [When comparing periods of multiple months](#multiple3)
 
-Similar case #5 [When starting from the middle of a week](#middle4)
-
-Similar case #6 [When comparing periods of multiple weeks](#multiple4)
 
 
 ## Instructions<a name="taleinst"></a>
@@ -224,16 +206,7 @@ Use the  [Custom Periods](#arb) tab and enter the start and end dates of the per
 How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/table-past-three-months.PNG)  |  ![](screenshots/table-past-three-months-result.PNG)
-## How do I compare the past seven days starting in the middle of the week to the same period last year?<a name="middle4"></a>
-Use the  [Custom Periods](#arb) tab and enter date ranges of the seven day periods you want to compare.
-How To             |  Result
-:-------------------------:|:-------------------------:
-![](screenshots/table-past-seven-days.PNG)  |  ![](screenshots/table-past-seven-days-result.PNG)
-## How do I compare the past two or three weeks with the same period last year?<a name="multiple4"></a>
-Use the  [Custom Periods](#arb) tab and enter the start and end date of the periods you want to compare.
-How To             |  Result
-:-------------------------:|:-------------------------:
-![](screenshots/table-compare-three-weeks.PNG)  |  ![](screenshots/table-compare-three-weeks-result.PNG)
+
 
 # How do I compare two arbitrary periods?<a name="nonconsecutive"></a>
 
