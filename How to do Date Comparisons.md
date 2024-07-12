@@ -165,7 +165,7 @@ How To             |  Result
 
 Similar case #1 [When comparing this past month to the same month last year](#month2)
 
-Similar case #2 When starting from the middle of a month](#middle3)
+Similar case #2 [When starting from the middle of a month](#middle3)
 
 Similar case #3 [When starting with a previous month](#prev4)
 
