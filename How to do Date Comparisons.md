@@ -118,9 +118,9 @@ How To             |  Result
 # How do I compare this past week to previous week? <a name="previous"></a>
 [Instructions](#inst2)
 
-[When comparing a current month to previous month](#prev3)
+Similar case #1 [When comparing a current month to previous month](#prev3)
 
-[When comparing seven day periods starting in the middle of the week](#rolling)
+Similar case #2 [When comparing seven day periods starting in the middle of the week](#rolling)
 
 
 ### Instructions<a name="inst2"></a>
@@ -163,17 +163,17 @@ How To             |  Result
 
 [Instructions](#taleinst)
 
-[When comparing this past month to the same month last year](#month2)
+Similar case #1 [When comparing this past month to the same month last year](#month2)
 
-[When starting from the middle of a month](#middle3)
+Similar case #2 When starting from the middle of a month](#middle3)
 
-[When starting with a previous month](#prev4)
+Similar case #3 [When starting with a previous month](#prev4)
 
-[When comparing periods of multiple months](#multiple3)
+Similar case #4 [When comparing periods of multiple months](#multiple3)
 
-[When starting from the middle of a week](#middle4)
+Similar case #5 [When starting from the middle of a week](#middle4)
 
-[When comparing periods of multiple weeks](#multiple4)
+Similar case #6 [When comparing periods of multiple weeks](#multiple4)
 
 
 ## Instructions<a name="taleinst"></a>
@@ -241,7 +241,7 @@ How To             |  Result
 
 [Instructions](#inst3)
 
-[Adding additional periods for comparison](#add)
+Similar case #1 [Adding additional periods for comparison](#add)
 
 ## Comparing Arbitrary Periods with the Custom Periods Tab<a name="arb"></a>
 In addition to comparing nonconsecutive months, the Custom Periods tab can also be used for other comparisons of arbitrary periods, such as comparing the past 7 days starting in the middle of the week, the past 30 days starting in the middle of a month, or comparing clusters of multiple weeks or months. Follow the directions below but enter date ranges that address your query.
