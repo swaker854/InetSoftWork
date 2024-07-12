@@ -71,7 +71,7 @@ How To             |  Result
 
 ## How do I display the percent change alongside the change in value?<a name="percentplus"></a>
 
-Perform the steps above, except where it says 'Display' select '%Change'.
+Perform the steps above, except where it says 'Display' select '%Change & Value'.
 
 How To             |  Result
 :-------------------------:|:-------------------------:
