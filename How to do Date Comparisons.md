@@ -31,9 +31,11 @@ Similar case #2 [When comparing the current week to the same week last year](#pr
 
 Similar case #3 [When comparing this past month to the same month last year](#month)
 
-Similar case #4 [When starting from the middle of a week](#middle1)
+Similar case #4 [When starting with a previous month](#prev2)
 
-Similar case #5 [When comparing periods of multiple weeks](#multiple1)
+Similar case #5 [When starting from the middle of a week](#middle1)
+
+Similar case #6 [When comparing periods of multiple weeks](#multiple1)
 
 
 
