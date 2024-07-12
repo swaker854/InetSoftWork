@@ -27,15 +27,17 @@ Clicking 'Date Comparison' will bring up the Date Comparison dialog box.
 
 Similar case #1 [When displaying the percent change from the same week last year](#percent)
 
-Similar case #2 [When comparing the current week to the same week last year](#prev1)
+Similar case #2 [When displaying the percent change and change in value together](#percentplus)
 
-Similar case #3 [When comparing this past month to the same month last year](#month)
+Similar case #3 [When comparing the current week to the same week last year](#prev1)
 
-Similar case #4 [When starting with a previous month](#prev2)
+Similar case #4 [When comparing this past month to the same month last year](#month)
 
-Similar case #5 [When starting from the middle of a week](#middle1)
+Similar case #5 [When starting with a previous month](#prev2)
 
-Similar case #6 [When comparing periods of multiple weeks](#multiple1)
+Similar case #6 [When starting from the middle of a week](#middle1)
+
+Similar case #7 [When comparing periods of multiple weeks](#multiple1)
 
 
 
@@ -59,6 +61,15 @@ The chart should change to show only the two data points, one for the most recen
 ![](screenshots/compare-same-week-result.PNG)
 
 ## How do I display the percent change between both weeks?<a name="percent"></a>
+
+Perform the steps above, except where it says 'Display' select '%Change'.
+
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/percent-change-both-weeks.PNG)  |  ![](screenshots/percent-change-both-weeks-result.PNG)
+
+
+## How do I display the percent change alongside the change in value?<a name="percentplus"></a>
 
 Perform the steps above, except where it says 'Display' select '%Change'.
 
