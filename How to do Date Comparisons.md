@@ -92,7 +92,7 @@ How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/compare-current-month.PNG)  |  ![](screenshots/compare-current-month-result.PNG)
 ## How do I compare this past month to the same month of the past five years? <a name="five"></a><a name="five"></a>
-Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+Eter '5' In 'Previous', and select 'Years' in the second dropdown menu. Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/same-month-five-years.PNG)  |  ![](screenshots/same-month-five-years-result.PNG)
