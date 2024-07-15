@@ -33,11 +33,13 @@ Similar case #3 [When comparing the current week to the same week last year](#pr
 
 Similar case #4 [When comparing this past month to the same month last year](#month)
 
-Similar case #5 [When starting with a previous month](#prev2)
+Similar case #5 [When comparing this past month to the same month for the past five years](#five)
 
-Similar case #6 [When starting from the middle of a week](#middle1)
+Similar case #6 [When starting with a previous month](#prev2)
 
-Similar case #7 [When comparing periods of multiple weeks](#multiple1)
+Similar case #7 [When starting from the middle of a week](#middle1)
+
+Similar case #8 [When comparing periods of multiple weeks](#multiple1)
 
 
 
@@ -84,11 +86,16 @@ How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/compare-current-week.PNG)  |  ![](screenshots/compare-current-week-result.PNG)
 
-## How do I compare this past month to the same month last year? <a name="month"></a><a name="month"></a>
+## How do I compare this past month to the same month last year? <a name="month"></a></a>
 Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
 How To             |  Result
 :-------------------------:|:-------------------------:
 ![](screenshots/compare-current-month.PNG)  |  ![](screenshots/compare-current-month-result.PNG)
+## How do I compare this past month to the same month of the past five years? <a name="five"></a><a name="five"></a>
+Select 'Same Month' under 'Compare Data of',  'Year' in 'For Each', and 'Month' under 'Granularity'. Check box for 'Use Range End Date'. Click 'Ok'.
+How To             |  Result
+:-------------------------:|:-------------------------:
+![](screenshots/same-month-five-years.PNG)  |  ![](screenshots/same-month-five-years-result.PNG)
 ##  How do I compare a previous month to the same month last year?<a name="prev2"></a>
 Perform the steps above, except where it says 'Range End Date' uncheck the box for 'Today' and instead manually enter the last day of the month you want to compare with the same month last year.
 How To             |  Result
