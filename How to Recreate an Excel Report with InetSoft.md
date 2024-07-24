@@ -37,7 +37,7 @@ Drag out dimension 'Order Date' into the bottom left cell.
 
 Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
 
-![](screenshots/set-grouping-to-by-month.PNG)
+![](screenshots/set-grouping-to-by-month-highlight.png)
 
 
 
