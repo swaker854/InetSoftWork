@@ -76,7 +76,7 @@ Drag 'Customer' dimension into the merged cells. Make sure it is set on Horizont
 
 Drag 'Gross Amount' measure into the bottom right cell.
 
-![](screenshots/drag-gross-amount-into-fourth.PNG)
+![](screenshots/drag-gross-amount-into-fourth-highlight.png)
 
 Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
 
