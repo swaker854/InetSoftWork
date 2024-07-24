@@ -57,7 +57,7 @@ Add 'Gross Amount' to the bottom cell of the second column.
 
 Next, move dimensions 'Category' and 'Product' into the first two cells of the third column. Make sure expand on both is set to Horizontal.
 
-![](screenshots/move-in-category-and-product.PNG)
+![](screenshots/move-in-category-and-product-highlight.png)
 
 
 
