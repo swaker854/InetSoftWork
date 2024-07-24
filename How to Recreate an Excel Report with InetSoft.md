@@ -60,4 +60,4 @@ Select the top two blank cells on the right. Right click  and select 'Merge Cell
 ![](screenshots/merge_cells.PNG)
 
 
-![](screenshots/drag-customer-into-fourth-space.PNG)
+![](screenshots/drag-customer-into-fourth-space-highlight.PNG)
