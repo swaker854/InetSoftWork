@@ -63,7 +63,7 @@ Next, move dimensions 'Category' and 'Product' into the first two cells of the t
 
 Drag 'Gross Amount' into the bottom cell of the third column.
 
-![](screenshots/drag-out-gross-amount-again.PNG)
+![](screenshots/drag-out-gross-amount-again-highlight.png)
 
 Select the top two blank cells on the right. Right click  and select 'Merge Cells'.
 
