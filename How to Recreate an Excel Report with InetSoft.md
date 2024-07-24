@@ -51,7 +51,7 @@ Add dimensions Sales Team' and 'Sales Rep' to the cells where they are pictured 
 
 Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
 
-Next, move in Category and Product into the first two cells of the third row. Set expand to Horizontal.
+Next, move in dimensions 'Category' and 'Product' into the first two cells of the third row. Set expand to Horizontal.
 
 Add 'Gross Amount' to the bottom cell of the second column.
 
