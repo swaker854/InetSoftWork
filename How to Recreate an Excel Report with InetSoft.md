@@ -53,7 +53,7 @@ Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
 
 Add 'Gross Amount' to the bottom cell of the second column.
 
-![](screenshots/add-gross-amount-dimension.PNG)
+![](screenshots/add-gross-amount-dimension-highlight.png)
 
 Next, move dimensions 'Category' and 'Product' into the first two cells of the third column. Make sure expand on both is set to Horizontal.
 
