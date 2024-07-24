@@ -35,13 +35,13 @@ Drag out dimension 'Order Date' into the bottom left cell.
 
 ![](screenshots/order-date-into-bottom-left-column-highlight.png)
 
-Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
+Select the cell containing 'Order Date', and set group to the 'Month' level. Set 'Expand Cell' to 'Vertical'.
 
 ![](screenshots/set-grouping-to-by-month-highlight.png)
 
 
 
-Add dimensions Sales Team' and 'Sales Rep' to the cells where they are pictured below.
+Add dimensions 'Sales Team' and 'Sales Rep' to the cells where they are pictured below.
 
 ![](screenshots/add-sales-team-highlight.png)
 
@@ -49,7 +49,7 @@ Add dimensions Sales Team' and 'Sales Rep' to the cells where they are pictured 
 
 
 
-Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
+Make sure that on 'Sales Team', and 'Sales Rep', expand is set to 'Horizontal'.
 
 Add 'Gross Amount' to the bottom cell of the second column.
 
