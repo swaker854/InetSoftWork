@@ -40,25 +40,25 @@ Add order date, sales team, and sales rep to the cells where they are pictured b
 
 
 
-Select the cell containing order date, and set group to the month level. Set 'expand cell' to vertical.
+Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
 
 ![](screenshots/set-grouping-to-by-month.PNG)
 
-Make sure that on Sales Team, and Sales Rep, expand is set to horizontal.
+Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
 
 Next, move in Category and Product into the first two cells of the third row. Set expand to horizontal.
 
-Add Gross Amount to the bottom cell of the second column.
+Add 'Gross Amount' to the bottom cell of the second column.
 
 ![](screenshots/add-gross-amount-dimension.PNG)
 
-Next, move Category and Product into the first two cells of the third column. Make sure expand on both is set to horizontal.
+Next, move 'Category' and 'Product into the first two cells of the third column. Make sure expand on both is set to horizontal.
 
 ![](screenshots/move-in-category-and-product.PNG)
 
 
 
-Drag Gross Amount into the bottom cell of the third column.
+Drag 'Gross Amount' into the bottom cell of the third column.
 
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
@@ -79,6 +79,3 @@ Click 'Finish'. You now have a freehand table which combines three pivot tables 
 
 
 ![](screenshots/combine-pivot-table-result.PNG) ![](screenshots/combine-pivot-table-result1.PNG) ![](screenshots/combine-pivot-table-result2.PNG)
-
-:-------------------------:|:-------------------------:
-![](screenshots/compare-seven-days.PNG)  |  ![](screenshots/compare-seven-days-result.PNG) 
