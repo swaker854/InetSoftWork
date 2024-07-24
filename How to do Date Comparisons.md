@@ -198,7 +198,7 @@ Make sure you are on the 'Standard Periods' tab.  Enter '2' in 'Previous' and se
 ![](screenshots/table-compare-past-two-years.PNG)
 
 Select 'All' under 'Compare Data of', and 'Year' under 'Granularity'. Select '%Change & Value'. Click 'Ok'.
-screenshots/table-percent-change-and-value.PNG
+
 
 ![](screenshots/table-percent-change-and-value.PNG)
 
