@@ -56,4 +56,5 @@ Next, move Category and Product into the first two cells of the third column. Ma
 Drag Gross Amount into the bottom cell of the third column
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
+Select the top two blank cells on the right. Right click  and select 'Merge Cells'.
 ![](screenshots/merge_cells.PNG)
