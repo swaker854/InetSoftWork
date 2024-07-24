@@ -13,7 +13,7 @@ This document contains instructions on how to recreate your Excel report using I
 
 # How do I combine multiple pivot tables into one table? <a name="pivot"></a>
 
-This multilevel freehand table example uses the Orders Details dataset.
+This multilevel freehand table example uses the Orders Details dataset. We will be creating a table that combines pivot tables displaying orders by month broken down by team and salesperson
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
 
