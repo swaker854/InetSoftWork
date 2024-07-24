@@ -46,13 +46,13 @@ Select the cell containing order date, and set group to the month level. Set 'ex
 
 Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
 
-Next, move in Category and Product into the first two cells of the third row. Set expand to horizontal.
+Next, move in Category and Product into the first two cells of the third row. Set expand to Horizontal.
 
 Add 'Gross Amount' to the bottom cell of the second column.
 
 ![](screenshots/add-gross-amount-dimension.PNG)
 
-Next, move 'Category' and 'Product' into the first two cells of the third column. Make sure expand on both is set to horizontal.
+Next, move 'Category' and 'Product' into the first two cells of the third column. Make sure expand on both is set to Horizontal.
 
 ![](screenshots/move-in-category-and-product.PNG)
 
