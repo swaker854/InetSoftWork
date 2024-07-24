@@ -66,7 +66,7 @@ Select the top two blank cells on the right. Right click  and select 'Merge Cell
 
 ![](screenshots/merge_cells.PNG)
 
-Drag 'Customer' dimension into the merged cells.
+Drag 'Customer' dimension into the merged cells. Make sure it is set on Horizontal.
 
 ![](screenshots/drag-customer-into-fourth-space-highlight.PNG)
 
