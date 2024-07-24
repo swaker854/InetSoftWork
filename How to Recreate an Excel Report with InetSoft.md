@@ -21,12 +21,12 @@ This multilevel freehand table example uses the Orders Details dataset.
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
 
-Then right click on a cell and click 'Insert Row'. Right click on a cell again and select 'Insert Rows/Columns'
+Then right click on a cell and click 'Insert Row'. Right click on a cell again and select 'Insert Rows/Columns'.
 
 ![](screenshots/insert-rows-columns.PNG)
 
 
-Insert 3 extra columns, after the selection
+Insert 3 extra columns, after the selection.
 
 ![](screenshots/insert-extra-rows-columns.PNG)
 
@@ -48,7 +48,7 @@ Make sure that on Sales Team, and Sales Rep, expand is set to horizontal.
 
 Next, move in Category and Product into the first two cells of the third row. Set expand to horizontal.
 
-Add Gross Amount to the bottom cell of the second column
+Add Gross Amount to the bottom cell of the second column.
 
 ![](screenshots/add-gross-amount-dimension.PNG)
 
@@ -58,7 +58,7 @@ Next, move Category and Product into the first two cells of the third column. Ma
 
 
 
-Drag Gross Amount into the bottom cell of the third column
+Drag Gross Amount into the bottom cell of the third column.
 
 ![](screenshots/drag-out-gross-amount-again.PNG)
 
