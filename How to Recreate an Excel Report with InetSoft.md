@@ -43,7 +43,7 @@ Select the cell containing order date, and set group to the month level. Set 'ex
 
 Add dimensions Sales Team' and 'Sales Rep' to the cells where they are pictured below.
 
-![](screenshots/add-sales-team.PNG)
+![](screenshots/add-sales-team-highlight.png)
 
 
 
