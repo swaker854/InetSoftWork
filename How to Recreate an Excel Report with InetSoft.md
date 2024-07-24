@@ -61,3 +61,5 @@ Select the top two blank cells on the right. Right click  and select 'Merge Cell
 
 Drag 'Customer' dimension into the merged cells.
 ![](screenshots/drag-customer-into-fourth-space-highlight.PNG)
+
+![](screenshots/drag-gross amount-into-fourth.PNG)
