@@ -80,5 +80,5 @@ Click 'Finish'. You now have a freehand table which combines three pivot tables 
 
 ![](screenshots/combine-pivot-table-result.PNG) ![](screenshots/combine-pivot-table-result1.PNG) ![](screenshots/combine-pivot-table-result2.PNG)
 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/compare-seven-days.PNG)  |  ![](screenshots/compare-seven-days-result.PNG) |  ![](screenshots/compare-seven-days-result.PNG)
+:-------------------------:|:-------------------------:
+![](screenshots/compare-seven-days.PNG)  |  ![](screenshots/compare-seven-days-result.PNG) | 
