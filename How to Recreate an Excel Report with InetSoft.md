@@ -59,5 +59,5 @@ Drag Gross Amount into the bottom cell of the third column
 Select the top two blank cells on the right. Right click  and select 'Merge Cells'.
 ![](screenshots/merge_cells.PNG)
 
-
+Drag 'Customer' dimension into the merged cells.
 ![](screenshots/drag-customer-into-fourth-space-highlight.PNG)
