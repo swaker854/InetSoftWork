@@ -17,9 +17,14 @@ This multilevel freehand table example uses the Orders Details dataset.
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
 
-Then right click on a cell and click 'Insert Row'. Right click on a cell again and select 'Insert Rows/Columns'.
+Then right click on a cell and click 'Insert Row'. 
 
-![](screenshots/insert-rows-columns.PNG)
+![](screenshots/insert-row-highlight.PNG)
+
+
+Right click on a cell again and select 'Insert Rows/Columns'.
+
+![](screenshots/insert-rows-columns-highlight.PNG)
 
 
 Insert 3 extra columns, after the selection.
