@@ -29,7 +29,7 @@ Right click on a cell again and select 'Insert Rows/Columns'.
 
 Insert 3 extra columns, after the selection.
 
-![](screenshots/insert-extra-rows-columns.PNG)
+![](screenshots/insert-extra-rows-columns-highlight.png)
 
 
 
