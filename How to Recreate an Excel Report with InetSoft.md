@@ -19,12 +19,12 @@ Begin by dragging out a freehand table element and selecting 'Edit'.
 
 Then right click on a cell and click 'Insert Row'. 
 
-![](screenshots/insert-row-highlight.PNG)
+![](screenshots/insert-row-highlight.png)
 
 
 Right click on a cell again and select 'Insert Rows/Columns'.
 
-![](screenshots/insert-rows-columns-highlight.PNG)
+![](screenshots/insert-rows-columns-highlight.png)
 
 
 Insert 3 extra columns, after the selection.
