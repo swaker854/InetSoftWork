@@ -81,4 +81,4 @@ Drag 'Gross Amount' measure into the bottom right cell.
 Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
 
 
-![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1.PNG) ![](screenshots/combine-pivot-table-result2.PNG)
+![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2.PNG)
