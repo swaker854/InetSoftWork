@@ -31,7 +31,11 @@ Insert 3 extra columns, after the selection.
 
 ![](screenshots/insert-extra-rows-columns-highlight.png)
 
-Drag out dimension 'Order Date' into the bottom left cell. Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
+Drag out dimension 'Order Date' into the bottom left cell. 
+
+![](screenshots/order-date-into-bottom-left-column-highlight.png)
+
+Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
 
 ![](screenshots/set-grouping-to-by-month.PNG)
 
