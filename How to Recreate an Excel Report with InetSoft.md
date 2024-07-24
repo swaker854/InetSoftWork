@@ -72,4 +72,5 @@ Drag 'Customer' dimension into the merged cells.
 
 
 Drag 'Gross Amount' measure into the bottom right cell.
+
 ![](screenshots/drag-gross-amount-into-fourth.PNG)
