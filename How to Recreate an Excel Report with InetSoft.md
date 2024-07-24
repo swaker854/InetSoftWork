@@ -31,19 +31,19 @@ Insert 3 extra columns, after the selection.
 
 ![](screenshots/insert-extra-rows-columns-highlight.png)
 
+Drag out dimension 'Order Date' into the bottom left cell. Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
+
+![](screenshots/set-grouping-to-by-month.PNG)
 
 
 
-
-Add order date, sales team, and sales rep to the cells where they are pictured below.
+Add dimensions Sales Team' and 'Sales Rep' to the cells where they are pictured below.
 
 ![](screenshots/add-sales-team.PNG)
 
 
 
-Select the cell containing order date, and set group to the month level. Set 'expand cell' to Vertical.
 
-![](screenshots/set-grouping-to-by-month.PNG)
 
 Make sure that on 'Sales Team', and 'Sales Rep', expand is set to Horizontal.
 
