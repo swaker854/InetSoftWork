@@ -71,7 +71,7 @@ Select the top two blank cells on the right. Right click  and select 'Merge Cell
 
 Drag 'Customer' dimension into the merged cells. Make sure it is set on Horizontal.
 
-![](screenshots/drag-customer-into-fourth-space-highlight.PNG)
+![](screenshots/drag-customer-into-fourth-space-highlight.png)
 
 
 Drag 'Gross Amount' measure into the bottom right cell.
