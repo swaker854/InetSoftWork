@@ -67,7 +67,7 @@ Drag 'Gross Amount' into the bottom cell of the third column.
 
 Select the top two blank cells on the right. Right click  and select 'Merge Cells'.
 
-![](screenshots/merge_cells.PNG)
+![](screenshots/merge_cells-highlight.png)
 
 Drag 'Customer' dimension into the merged cells. Make sure it is set on Horizontal.
 
