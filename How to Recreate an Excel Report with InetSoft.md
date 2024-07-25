@@ -13,7 +13,14 @@ This document contains instructions on how to recreate your Excel report using I
 
 # How do I combine multiple pivot tables into one table? <a name="pivot"></a>
 
-This multilevel freehand table example uses the Orders Details dataset. We will be creating a table that combines pivot tables displaying orders by month broken down by team and salesperson, product category and product, and company.
+ 
+
+This   [multilevel freehand table example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Return%20Analysis%20Table)   uses the Orders Details dataset. This table displays the information that would require three separate pivot tables if made in excel. Scroll sideways to see the three tables displayed as one. This table that combines pivot tables displaying orders by month broken down by team and salesperson, product category and product, and company.
+
+![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2-highlight.png)
+
+
+
 
 Begin by dragging out a freehand table element and selecting 'Edit'.
 
@@ -80,5 +87,17 @@ Drag 'Gross Amount' measure into the bottom right cell.
 
 Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
 
+The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
 
-![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2-highlight.png)
+![](screenshots/combine-pivot-table-result-highlight.png)
+
+It then breaks the orders down by columns of product category and product.
+
+![](screenshots/combine-pivot-table-result1-highlight.png)
+
+It ends with columns for company.
+
+![](screenshots/combine-pivot-table-result2-highlight.png)
+
+
+
