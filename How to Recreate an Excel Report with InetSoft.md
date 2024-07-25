@@ -87,8 +87,17 @@ Drag 'Gross Amount' measure into the bottom right cell.
 
 Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
 
+The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
 
-![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2-highlight.png)
+![](screenshots/combine-pivot-table-result-highlight.png)
+
+It then breaks the orders down by columns of product category and product.
+
+![](screenshots/combine-pivot-table-result1-highlight.png)
+
+It ends with columns for 
+
+![](screenshots/combine-pivot-table-result2-highlight.png)
 
 
 
