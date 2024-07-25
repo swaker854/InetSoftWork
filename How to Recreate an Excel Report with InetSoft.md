@@ -82,3 +82,10 @@ Click 'Finish'. You now have a freehand table which combines three pivot tables 
 
 
 ![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2-highlight.png)
+
+
+<p float="left">
+  <img src="screenshots/combine-pivot-table-result-highlight.png" width="100" />
+  <img src="screenshots/combine-pivot-table-result1-highlight.png" width="100" /> 
+  <img src="screenshots/combine-pivot-table-result2-highlight.png" width="100" />
+</p>
