@@ -95,7 +95,7 @@ It then breaks the orders down by columns of product category and product.
 
 ![](screenshots/combine-pivot-table-result1-highlight.png)
 
-It ends with columns for 
+It ends with columns for company.
 
 ![](screenshots/combine-pivot-table-result2-highlight.png)
 
