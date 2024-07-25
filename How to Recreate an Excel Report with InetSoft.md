@@ -13,7 +13,7 @@ This document contains instructions on how to recreate your Excel report using I
 
 # How do I combine multiple pivot tables into one table? <a name="pivot"></a>
 
- [online example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
+ [multilevel freehand table example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison)
 
 This  [multilevel freehand table example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Date%20Comparison](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Return%20Analysis%20Table) iuses the Orders Details dataset. We will be creating a table that combines pivot tables displaying orders by month broken down by team and salesperson, product category and product, and company.
 
