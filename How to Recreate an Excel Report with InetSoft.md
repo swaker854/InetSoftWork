@@ -125,7 +125,7 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
  
 ![](screenshots/drag-category-into-cell.PNG)
 
-
+ On the left side data panel, open query 'Customer" and drag dimension 'Region' into the third to top cell on the left. Make sure 'Expand Cell' is selected, and set to 'Vertical'.
 
 ![](screenshots/drag-region-into-cell.PNG)
 
