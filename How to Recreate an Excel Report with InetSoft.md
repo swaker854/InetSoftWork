@@ -130,3 +130,4 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
 ![](screenshots/drag-region-into-cell.PNG)
 
 
+![](screenshots/enter-sales-label.PNG)
