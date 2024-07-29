@@ -133,4 +133,6 @@ Select the cell in the top row that is second from the left. Make sure 'Text" is
 
 ![](screenshots/enter-sales-label.PNG)
 
+ On the left side data panel, open query 'Product" and drag dimension 'Total' into the second to top cell second to the left. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+
 ![](screenshots/drag-product-total-into-cell.PNG)
