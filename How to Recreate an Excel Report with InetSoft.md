@@ -132,3 +132,5 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
 Select the cell in the top row that is second from the left. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
 
 ![](screenshots/enter-sales-label.PNG)
+
+![](screenshots/drag-product-total-into-cell.PNG)
