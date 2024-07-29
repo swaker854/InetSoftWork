@@ -6,7 +6,7 @@ This document contains instructions on how to recreate your Excel report using I
 
 [How do I include multiple lists in the same table?](#lists)
 
-[How do I group table columns under subheaders??](#sub)
+[How do I group table columns under subheaders?](#sub)
 
 
 
