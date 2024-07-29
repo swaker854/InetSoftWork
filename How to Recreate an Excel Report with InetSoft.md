@@ -102,4 +102,4 @@ It ends with columns for company.
 # How do I include multiple lists in the same table? <a name="lists"></a>
 
 This example uses the Orders dataset.
-
+![](screenshots/combined-lists.PNG)
