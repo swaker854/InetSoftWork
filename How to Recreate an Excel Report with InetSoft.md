@@ -107,3 +107,5 @@ This example uses the Orders dataset to create combined lists of total sales and
 
 Begin by dragging out a freehand table from the left side panel.
 
+![](screenshots/drag-out-freehand-table.PNG)
+
