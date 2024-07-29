@@ -6,7 +6,7 @@ This document contains instructions on how to recreate your Excel report using I
 
 [How do I include multiple lists in the same table?](#lists)
 
-[How do I group table columns under subheaders??](#sub)
+[How do I group table columns under subheaders?](#sub)
 
 
 
@@ -99,5 +99,62 @@ It ends with columns for company.
 
 ![](screenshots/combine-pivot-table-result2-highlight.png)
 
+# How do I include multiple lists in the same table? <a name="lists"></a>
 
+This example uses the Orders dataset to create combined lists of total sales and product quantities, by product category and region.
+
+![](screenshots/combined-lists.PNG)
+
+Begin by dragging out a freehand table from the left side panel. Click the edit button in the middle of the new table.
+
+![](screenshots/drag-out-freehand-table.PNG)
+
+Select one of the cells in the table representation. Right click, select 'Insert Column'. Right click again, click 'Insert Rows/Columns'.
+
+![](screenshots/right-click-menu.PNG)
+
+Select 'Rows', under 'Number' insert  '2'. Click 'Ok'.
+
+![](screenshots/insert-two-rows.PNG)
+
+Select the top left cell. Make sure 'Text" is selected, type "Product Category" into the accompanying field and press enter.
+
+![](screenshots/insert-category-label.PNG)
+
+ On the left side data panel, open query 'Product" and drag dimension 'Category' into the second to top cell on the left. Make sure 'Expand Cell' is selected, and set to 'Vertical'.
+ 
+![](screenshots/drag-category-into-cell.PNG)
+
+ On the left side data panel, open query 'Customer" and drag dimension 'Region' into the bottom cell on the left. Make sure 'Expand Cell' is selected, and set to 'Vertical'.
+
+![](screenshots/drag-region-into-cell.PNG)
+
+Select the center cell in the top row. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
+
+![](screenshots/enter-sales-label.PNG)
+
+ On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options. Click the checkmark once 'Sum' has been selected.
+
+![](screenshots/drag-product-total-into-cell.PNG)
+
+Drag dimension 'Total' into the bottom center cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the checkmark once 'Sum' has been selected.
+
+![](screenshots/drag-product-total-into-bottom-cell.PNG)
+
+Select the top cell on the right. Make sure 'Text" is selected, type "Quantities" into the accompanying field and press enter.
+
+![](screenshots/enter-quantities-label.PNG)
+
+ On the left side data panel, open query 'Product" and drag measure 'Quantity Purchased' into the second to top right cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options. Click the checkmark once 'Sum' has been selected.
+
+
+![](screenshots/drag-quantity-purchased-into-cell.PNG)
+
+ On the left side data panel, open query 'Order" and drag measure 'Order:Num' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'. Click the checkmark once 'Distinct Count' has been selected.
+
+![](screenshots/drag-order-number-into-last-cell.PNG)
+
+click 'Finish'. We now have a combined lists of total sales and product quantities, by product category and region.
+
+![](screenshots/combined-lists.PNG)
 
