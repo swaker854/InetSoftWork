@@ -129,11 +129,11 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
 
 ![](screenshots/drag-region-into-cell.PNG)
 
-Select the center cell in the top row that is second from the left. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
+Select the center cell in the top row. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
 
 ![](screenshots/enter-sales-label.PNG)
 
- On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 ![](screenshots/drag-product-total-into-cell.PNG)
 
