@@ -124,3 +124,9 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
  On the left side data panel, open query 'Product" and drag dimension 'Category' into the second to top cell on the left. Make sure 'Expand Cell' is selected, and set to 'Vertical'.
  
 ![](screenshots/drag-category-into-cell.PNG)
+
+
+
+![](screenshots/drag-region-into-cell.PNG)
+
+
