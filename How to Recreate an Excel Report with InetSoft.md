@@ -113,7 +113,7 @@ Select one of the cells in the table representation. Right click, select 'Insert
 
 ![](screenshots/right-click-menu.PNG)
 
-Select 'Rows', under 'Number' insert  '2'.
+Select 'Rows', under 'Number' insert  '2'. Click 'Ok'.
 
 ![](screenshots/insert-two-rows.PNG)
 
