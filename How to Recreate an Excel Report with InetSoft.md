@@ -133,7 +133,7 @@ Select the center cell in the top row. Make sure 'Text" is selected, type "Total
 
 ![](screenshots/enter-sales-label.PNG)
 
- On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options. Click the checkmark once 'Sum' has been selected.
 
 ![](screenshots/drag-product-total-into-cell.PNG)
 
@@ -145,12 +145,12 @@ Select the top cell on the right. Make sure 'Text" is selected, type "Quantities
 
 ![](screenshots/enter-quantities-label.PNG)
 
- On the left side data panel, open query 'Product" and drag measure 'Quantity Purchased' into the second to top right cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Product" and drag measure 'Quantity Purchased' into the second to top right cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options. Click the checkmark once 'Sum' has been selected.
 
 
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
 
- On the left side data panel, open query 'Order" and drag measure 'Order:Num' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'.
+ On the left side data panel, open query 'Order" and drag measure 'Order:Num' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'. Click the checkmark once 'Distinct Count' has been selected.
 
 ![](screenshots/drag-order-number-into-last-cell.PNG)
 
