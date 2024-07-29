@@ -113,6 +113,6 @@ Select one of the cells in the table representation. Right click, select add col
 
 ![](screenshots/right-click-menu.PNG)
 
-
+Select Rows, insert number 2.
 
 ![](screenshots/insert-two-rows.PNG)
