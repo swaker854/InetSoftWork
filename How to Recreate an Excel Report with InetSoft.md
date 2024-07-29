@@ -150,7 +150,7 @@ Select the top cell on the right. Make sure 'Text" is selected, type "Quantities
 
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
 
- On the left side data panel, open query 'Order" and drag measure 'Quantity Purchased' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Order" and drag measure 'Order:Num' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 ![](screenshots/drag-order-number-into-last-cell.PNG)
 
