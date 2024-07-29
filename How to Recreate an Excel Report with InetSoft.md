@@ -129,7 +129,7 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
 
 ![](screenshots/drag-region-into-cell.PNG)
 
-Select the cell in the top row that is second from the left. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
+Select the center cell in the top row that is second from the left. Make sure 'Text" is selected, type "Total Sales" into the accompanying field and press enter.
 
 ![](screenshots/enter-sales-label.PNG)
 
@@ -141,4 +141,5 @@ Drag dimension 'Total' into the bottom cell second to the left. Make sure 'Summa
 
 ![](screenshots/drag-product-total-into-bottom-cell.PNG)
 
+Select the top cell on the right. Make sure 'Text" is selected, type "Product Category" into the accompanying field and press enter.
 ![](screenshots/enter-quantities-label.PNG)
