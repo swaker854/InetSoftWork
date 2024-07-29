@@ -99,5 +99,7 @@ It ends with columns for company.
 
 ![](screenshots/combine-pivot-table-result2-highlight.png)
 
+# How do I combine multiple pivot tables into one table? <a name="lists"></a>
+
 
 
