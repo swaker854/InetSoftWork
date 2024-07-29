@@ -116,3 +116,5 @@ Select one of the cells in the table representation. Right click, select add col
 Select Rows, insert number 2.
 
 ![](screenshots/insert-two-rows.PNG)
+
+![](screenshots/insert-category-label.PNG)
