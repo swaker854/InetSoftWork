@@ -149,3 +149,5 @@ Select the top cell on the right. Make sure 'Text" is selected, type "Quantities
 
 
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
+
+![](screenshots/drag-order-number-into-last-cell.PNG)
