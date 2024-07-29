@@ -140,3 +140,5 @@ Select the cell in the top row that is second from the left. Make sure 'Text" is
 Drag dimension 'Total' into the bottom cell second to the left. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 ![](screenshots/drag-product-total-into-bottom-cell.PNG)
+
+![](screenshots/enter-quantities-label.PNG)
