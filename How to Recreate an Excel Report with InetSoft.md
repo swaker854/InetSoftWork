@@ -142,4 +142,6 @@ Drag dimension 'Total' into the bottom cell second to the left. Make sure 'Summa
 ![](screenshots/drag-product-total-into-bottom-cell.PNG)
 
 Select the top cell on the right. Make sure 'Text" is selected, type "Quantities" into the accompanying field and press enter.
-![](screenshots/enter-quantities-label.PNG)
+
+
+![](screenshots/drag-quantity-purchased-into-cell.PNG)
