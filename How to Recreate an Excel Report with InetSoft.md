@@ -122,4 +122,5 @@ Select the top left cell. Make sure 'Text" is selected, type "Product Category" 
 ![](screenshots/insert-category-label.PNG)
 
  On the left side data panel, open query 'Product" and drag dimension 'Category' into the second to top cell on the left.
+ 
 ![](screenshots/drag-category-into-cell.PNG)
