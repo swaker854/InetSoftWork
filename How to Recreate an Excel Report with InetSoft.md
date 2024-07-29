@@ -133,7 +133,7 @@ Select the center cell in the top row that is second from the left. Make sure 'T
 
 ![](screenshots/enter-sales-label.PNG)
 
- On the left side data panel, open query 'Product" and drag dimension 'Total' into the second to top cell second to the left. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Product" and drag measure 'Total' into the second to top cell second to the left. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 ![](screenshots/drag-product-total-into-cell.PNG)
 
@@ -144,4 +144,8 @@ Drag dimension 'Total' into the bottom cell second to the left. Make sure 'Summa
 Select the top cell on the right. Make sure 'Text" is selected, type "Quantities" into the accompanying field and press enter.
 
 ![](screenshots/enter-quantities-label.PNG)
+
+ On the left side data panel, open query 'Product" and drag measure 'Quantity' into the second to top cell second to the left. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+
+
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
