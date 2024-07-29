@@ -145,7 +145,7 @@ Select the top cell on the right. Make sure 'Text" is selected, type "Quantities
 
 ![](screenshots/enter-quantities-label.PNG)
 
- On the left side data panel, open query 'Product" and drag measure 'Quantity Purchased' into the second to top center cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
+ On the left side data panel, open query 'Product" and drag measure 'Quantity Purchased' into the second to top right cell. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
