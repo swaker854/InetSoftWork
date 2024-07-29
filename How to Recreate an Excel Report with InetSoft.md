@@ -114,4 +114,5 @@ Select one of the cells in the table representation. Right click, select add col
 ![](screenshots/right-click-menu.PNG)
 
 
+
 ![](screenshots/insert-two-rows.PNG)
