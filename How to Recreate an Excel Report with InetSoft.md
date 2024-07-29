@@ -109,11 +109,11 @@ Begin by dragging out a freehand table from the left side panel. Click the edit 
 
 ![](screenshots/drag-out-freehand-table.PNG)
 
-Select one of the cells in the table representation. Right click, select add column. Right click again, click add rows/columns.
+Select one of the cells in the table representation. Right click, select 'Insert Column'. Right click again, click 'Insert Rows/Columns'.
 
 ![](screenshots/right-click-menu.PNG)
 
-Select Rows, insert number 2.
+Select 'Rows', insert  '2'.
 
 ![](screenshots/insert-two-rows.PNG)
 
