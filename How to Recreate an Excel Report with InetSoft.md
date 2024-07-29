@@ -137,8 +137,7 @@ Select the center cell in the top row that is second from the left. Make sure 'T
 
 ![](screenshots/drag-product-total-into-cell.PNG)
 
-Drag dimension 'Total' into the bottom center cell. Make sure 'Summarize is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options.
-
+Drag dimension 'Total' into the bottom center cell. Make sure 'Summarize is selected, and set to 'Sum'. 
 ![](screenshots/drag-product-total-into-bottom-cell.PNG)
 
 Select the top cell on the right. Make sure 'Text" is selected, type "Quantities" into the accompanying field and press enter.
