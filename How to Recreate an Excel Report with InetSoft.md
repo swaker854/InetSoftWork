@@ -101,6 +101,6 @@ It ends with columns for company.
 
 # How do I include multiple lists in the same table? <a name="lists"></a>
 
-This example uses the Orders dataset.
+This example uses the Orders dataset to create combined lists of total sales and product quantities, by product category and region.
 
 ![](screenshots/combined-lists.PNG)
