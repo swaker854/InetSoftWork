@@ -117,4 +117,6 @@ Select Rows, insert number 2.
 
 ![](screenshots/insert-two-rows.PNG)
 
+Select the top left cell. Make sure 'Text" is selected, type "Product Category" into the accompanying field and press enter.
+
 ![](screenshots/insert-category-label.PNG)
