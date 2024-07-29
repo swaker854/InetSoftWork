@@ -150,6 +150,11 @@ Select the top cell on the right. Make sure 'Text" is selected, type "Quantities
 
 ![](screenshots/drag-quantity-purchased-into-cell.PNG)
 
- On the left side data panel, open query 'Order" and drag measure 'Quantity Purchased' into the second to top cell on the right.. Make sure 'Summarize' is selected, and set to 'Sum'. Click the pencil icon next to 'Summarize' to see aggregation options
+ On the left side data panel, open query 'Order" and drag measure 'Quantity Purchased' into the second to top cell on the right. Make sure 'Summarize' is selected, and set to 'Distinct Count'. Click the pencil icon next to 'Summarize' to see aggregation options.
 
 ![](screenshots/drag-order-number-into-last-cell.PNG)
+
+click 'Finish'. We now have a combined lists of total sales and product quantities, by product category and region.
+
+![](screenshots/combined-lists.PNG)
+
