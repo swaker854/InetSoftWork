@@ -104,3 +104,6 @@ It ends with columns for company.
 This example uses the Orders dataset to create combined lists of total sales and product quantities, by product category and region.
 
 ![](screenshots/combined-lists.PNG)
+
+Begin by dragging out a freehand table from the left side panel.
+
