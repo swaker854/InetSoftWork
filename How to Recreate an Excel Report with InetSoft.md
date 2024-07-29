@@ -109,3 +109,4 @@ Begin by dragging out a freehand table from the left side panel.
 
 ![](screenshots/drag-out-freehand-table.PNG)
 
+![](screenshots/right-click-menu.PNG)
