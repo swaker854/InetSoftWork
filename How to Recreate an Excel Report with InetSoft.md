@@ -89,9 +89,11 @@ Click 'Finish'. You now have a freehand table which combines three pivot tables 
 
 ![](screenshots/table-properties.PNG)
 
+In the Freehand Table Properties menu, selec the 'Advanced' tab. Under 'Header Columns', enter '1'. Click 'Ok'.
+
 ![](screenshots/table-properties-menu.PNG)
 
-The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
+You now have a table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
 
   ![](screenshots/combined-pivot-table1.PNG)
 
