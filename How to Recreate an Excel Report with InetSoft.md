@@ -85,7 +85,9 @@ Drag 'Gross Amount' measure into the bottom right cell.
 
 ![](screenshots/drag-gross-amount-into-fourth-highlight.png)
 
-Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
+Click 'Finish'. You now have a freehand table which combines three pivot tables into one. To enhance readability, we are going to set month of the year as a header column. Select the table by clicking on it's header. Right click, select 'Properties'.
+
+![](screenshots/table-properties.PNG)
 
 The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
 
