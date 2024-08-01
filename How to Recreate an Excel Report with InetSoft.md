@@ -89,7 +89,7 @@ Click 'Finish'. You now have a freehand table which combines three pivot tables 
 
 The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
 
-  ![](screenshots/combined-pivot-table3.PNG)
+  ![](screenshots/combined-pivot-table1.PNG)
 
 It then breaks the orders down by columns of product category and product.
 
@@ -97,7 +97,7 @@ It then breaks the orders down by columns of product category and product.
 
 It ends with columns for company.
 
-![](screenshots/combined-pivot-table1.PNG)
+![](screenshots/combined-pivot-table3.PNG)
 
 # How do I include multiple lists in the same table? <a name="lists"></a>
 
