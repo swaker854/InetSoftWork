@@ -17,7 +17,7 @@ This document contains instructions on how to recreate your Excel report using I
 
 This   [multilevel freehand table example](https://www.inetsoft.com/public/app/viewer/view/global/Dashboards/Return%20Analysis%20Table)   uses the Orders Details dataset. This table displays the information that would require three separate pivot tables if made in excel. Scroll sideways to see the three tables displayed as one. This table that combines pivot tables displaying orders by month broken down by team and salesperson, product category and product, and company.
 
-![](screenshots/combine-pivot-table-result-highlight.png) ![](screenshots/combine-pivot-table-result1-highlight.png) ![](screenshots/combine-pivot-table-result2-highlight.png)
+![](screenshots/combined-pivot-table1.PNG) ![](screenshots/combined-pivot-table2.PNG) ![](screenshots/combined-pivot-table3.PNG)
 
 
 
@@ -85,19 +85,32 @@ Drag 'Gross Amount' measure into the bottom right cell.
 
 ![](screenshots/drag-gross-amount-into-fourth-highlight.png)
 
-Click 'Finish'. You now have a freehand table which combines three pivot tables into one.
+Click 'Finish'. You now have a freehand table which combines three pivot tables into one. To enhance readability, we are going to set month of the year as a header column. Select the table by clicking on it's header. Right click, select 'Properties'.
 
-The table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
+![](screenshots/table-properties.PNG)
 
-![](screenshots/combine-pivot-table-result-highlight.png)
+In the Freehand Table Properties menu, selec the 'Advanced' tab. Under 'Header Columns', enter '1'. Click 'Ok'.
+
+![](screenshots/table-properties-menu.PNG)
+
+You now have a table aggregates order data into rows based on month of the year. The table begins with columns for team and subcolumns for employee.
+
+  ![](screenshots/combined-pivot-table1.PNG)
 
 It then breaks the orders down by columns of product category and product.
 
-![](screenshots/combine-pivot-table-result1-highlight.png)
+![](screenshots/combined-pivot-table2.PNG)
 
 It ends with columns for company.
 
-![](screenshots/combine-pivot-table-result2-highlight.png)
+![](screenshots/combined-pivot-table3.PNG)
+
+
+
+
+
+
+
 
 # How do I include multiple lists in the same table? <a name="lists"></a>
 
